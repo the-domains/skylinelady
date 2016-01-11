@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Skylinelady]]></title>
+        <description><![CDATA[Skylinelady]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Jan 2016 17:54:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello 2016]]></title>
+            <description><![CDATA[<article><h1>Hello 2016</h1><p>An exciting new year has started and I am thrilled to finally be able to introduce you to my blog. Here you can find everything about travel but also useful tips and recommendations on site. Let me simply inspire you!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/17db8762ce4a91ad8bf987e070b549f0a3ef07fd.gif"></article>]]></description>
+            <link>undefinedhello-2016/index.html</link>
+            <guid isPermaLink="false">606bb069-f9d1-4134-8f38-ba40128efbf7</guid>
+            <pubDate>Mon, 11 Jan 2016 17:54:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
