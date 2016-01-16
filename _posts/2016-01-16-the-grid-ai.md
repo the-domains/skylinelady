@@ -17,20 +17,20 @@ keywords:
   - automatically
   - layout
 description: 'This is not another do-it-yourself website builder. The Grid harnesses the power of artificial intelligence to take everything you throw at it - videos, images, text, urls and more - and automatically shape them into a custom website unique to you. As your needs grow, it evolves with you, effortlessly adapting to your needs.'
-datePublished: '2016-01-16T13:45:54.922Z'
-dateModified: '2016-01-16T13:45:42.125Z'
+datePublished: '2016-01-16T15:10:07.005Z'
+dateModified: '2016-01-16T14:03:37.619Z'
 author: []
 related: []
 app_links: []
 title: The Grid AI
+sourcePath: _posts/2016-01-16-the-grid-ai.md
+published: true
 authors: []
 publisher:
   name: The Grid
   domain: thegrid.io
   url: 'https://thegrid.io'
   favicon: 'https://passport.thegrid.io/favicon.ico'
-sourcePath: _posts/2016-01-16-the-grid-ai.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
