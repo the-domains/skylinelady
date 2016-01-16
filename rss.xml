@@ -4,8 +4,15 @@
         <description><![CDATA[Skylinelady Travel & Lifestyle]]></description>
         <link>https://thegrid.ai/skylinelady/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 15:32:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2016 15:34:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/skylinelady/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Moments of happiness]]></title>
+            <description><![CDATA[<article><h1>Moments of happiness</h1><p>Meditation is scientifically proven to lower stress, increase happiness and much more. Learn today with our free 7 Days of Calm program: iPhone: https://itunes.apple.com/gb/app/calm-... Android: https://play.google.com/store/apps/de... Web: http://www.calm.com The Book: http://www.amazon.co.uk/gp/product/02... Twitter: http://www.twitter.com/calm Facebook: http://www.facebook.com/calmdotcom</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6216a0e1eda306d1d4e160ade551c8c9489d81dd.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=wni_nsyGAsw&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">98c16c24-a329-4252-b35f-fab1d4a29d75</guid>
+            <pubDate>Sat, 16 Jan 2016 15:34:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Social Connect]]></title>
             <description><![CDATA[<article><h1>Social Connect</h1><p>Follow my  Tweets (@skylinelady). </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9b649c545ed582edd0ac4bd408e180e20dd418a.gif"></article>]]></description>
@@ -57,7 +64,7 @@
         </item>
         <item>
             <title><![CDATA[See my recommendations lists on Foursquare]]></title>
-            <description><![CDATA[<article><h1>See my recommendations lists on Foursquare</h1><p>Foursquare</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/219b72f089a5ecc3f3e2fd4b2649b6d6201e54d3.gif"></article>]]></description>
+            <description><![CDATA[<article><h1>See my recommendations lists on Foursquare</h1><p>Foursquare</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e8e50bf2cb8122b04b42d23ed561829aece5489.gif"></article>]]></description>
             <link>https://de.foursquare.com/skylinelady?all=lists</link>
             <guid isPermaLink="false">4c66e050-fe13-4f6b-b272-f563a7700092</guid>
             <pubDate>Sat, 16 Jan 2016 15:31:59 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/skylinelady/</link>
             <guid isPermaLink="false">f22a4d5a-8914-4e1d-bf46-8fd101ac7a52</guid>
             <pubDate>Sat, 16 Jan 2016 15:30:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Follow my boards]]></title>
-            <description><![CDATA[<article><h1>Follow my boards</h1><p>Follow my posts and boards on Pinterest</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/542a381aa2cef89928b00e57a7d6f4a8067127e3.gif"></article>]]></description>
-            <link>https://thegrid.ai/skylinelady/follow-my-boards/index.html</link>
-            <guid isPermaLink="false">d479f5da-82eb-42c8-8ba6-3ed040fe83d5</guid>
-            <pubDate>Sat, 16 Jan 2016 15:21:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
