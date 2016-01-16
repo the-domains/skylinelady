@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Follow my posts and boards on Pinterest
-datePublished: '2016-01-16T15:13:28.545Z'
-dateModified: '2016-01-16T15:13:28.244Z'
+datePublished: '2016-01-16T15:21:10.050Z'
+dateModified: '2016-01-16T15:21:07.119Z'
 author: []
 title: Follow my boards
 sourcePath: _posts/2016-01-16-follow-my-boards.md
@@ -23,7 +23,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad6a5ab3-4bac-4185-b3f1-7cc241ea496a.gif)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/86ee2974e5f14a313f54f69b7f06f3d4f4805d39.gif)
 
 # Follow my boards
 
