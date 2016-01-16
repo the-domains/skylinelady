@@ -1,14 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Travel, Germany, Frankfurt'
-datePublished: '2016-01-16T15:39:15.275Z'
-dateModified: '2016-01-16T15:39:14.629Z'
-title: Travel
+description: Frankfurt
+datePublished: '2016-01-16T16:46:57.361Z'
+dateModified: '2016-01-16T16:46:53.378Z'
+title: Travel Europe
 author: []
 sourcePath: _posts/2016-01-16-frankfurt.md
 published: true
@@ -24,7 +24,7 @@ _type: Article
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/29bb6ba665d3a7c8d8c827954ea19914f0c5c4ac.jpg)
 
-# Travel
+# Travel Europe
 
 ## Frankfurt
 
