@@ -1,7 +1,8 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=UFZxK8edZWA&sns=tw'
 inLanguage: en
 starred: false
 keywords:
@@ -15,9 +16,9 @@ keywords:
   - production
   - diesel
   - http
-description: In between
-datePublished: '2016-01-16T12:19:30.060Z'
-dateModified: '2016-01-14T19:11:27.507Z'
+description: ''
+datePublished: '2016-01-16T15:54:57.995Z'
+dateModified: '2016-01-16T15:54:56.638Z'
 author:
   - name: i-D
     url: 'https://www.youtube.com/user/idmagazineonline'
@@ -35,15 +36,14 @@ app_links:
   - url: 'https://www.youtube.com/watch?v=UFZxK8edZWA&feature=applinks'
     type: web
 title: Dancespiration
+sourcePath: _posts/2016-01-16-dancespiration.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-01-16-dancespiration.md
-published: true
-url: dancespiration/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
