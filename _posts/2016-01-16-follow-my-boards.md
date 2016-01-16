@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://de.pinterest.com/skylinelady/'
 inLanguage: null
 starred: false
 keywords: []
-description: Pinterest
-datePublished: '2016-01-16T16:49:24.809Z'
-dateModified: '2016-01-16T16:49:24.515Z'
+description: ''
+datePublished: '2016-01-16T16:50:02.036Z'
+dateModified: '2016-01-16T16:49:57.385Z'
 author: []
 title: Follow my boards Pinterest
 sourcePath: _posts/2016-01-16-follow-my-boards.md
