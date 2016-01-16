@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'https://www.instagram.com/skylinelady/'
 inLanguage: null
 starred: false
 keywords: []
 description: Instagram
-datePublished: '2016-01-16T15:13:53.928Z'
-dateModified: '2016-01-16T15:13:53.584Z'
+datePublished: '2016-01-16T15:30:45.492Z'
+dateModified: '2016-01-16T15:30:41.788Z'
 author: []
 related: []
 app_links:
@@ -28,7 +29,6 @@ publisher:
   domain: www.instagram.com
   url: 'https://www.instagram.com'
   favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-url: social-connect/index.html
 _type: Photograph
 _context: 'http://schema.org'
 
