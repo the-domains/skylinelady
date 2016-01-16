@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://giphy.com/search/celebration/3'
 inLanguage: null
 starred: false
 keywords: []
-description: First Post
-datePublished: '2016-01-16T12:15:11.652Z'
-dateModified: '2016-01-16T12:15:02.537Z'
+description: About Me First Post - Celebrate
+datePublished: '2016-01-16T15:03:43.310Z'
+dateModified: '2016-01-16T15:03:42.349Z'
 author: []
 title: Celebration
 authors: []
@@ -18,13 +19,12 @@ publisher:
   favicon: null
 sourcePath: _posts/2016-01-16-celebration.md
 published: true
-url: celebration/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2619f6a8fcba5850331ca30adf84305c2ad9acfa.gif)
+
 # Celebration
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce3900121ed969690d13bdc04a3604fd41cbb2e0.gif)
-![](https://media4.giphy.com/media/13HQibvODMGEPS/200.gif)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5277f67-3fbc-4a38-b7be-9597c798f418.gif)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6d9e40a-aba5-47a5-99fc-4fdd8080bcb7.gif)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab98f80d46ee5e193045afdebfb4170317f87ccc.gif)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/75d1c00512841ed62bc1eb6bb1811682d6540600.gif)
