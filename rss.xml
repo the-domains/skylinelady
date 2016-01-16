@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Travel & Lifestyle]]></title>
         <description><![CDATA[Travel & Lifestyle]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.skylinelady.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 12:08:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Jan 2016 12:09:38 GMT</lastBuildDate>
+        <atom:link href="http://www.skylinelady.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Me]]></title>
+            <description><![CDATA[<article><h1>About Me</h1><p>There is still a lot to discover in this world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7bb5eaf95dfe23d4935b25e1d8c94251b433e020.jpg"></article>]]></description>
+            <link>http://www.skylinelady.com/about-me/index.html</link>
+            <guid isPermaLink="false">ff5bc2ce-12da-49d0-a21e-fe15f1cd1bd4</guid>
+            <pubDate>Sat, 16 Jan 2016 12:09:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hello!]]></title>
             <description><![CDATA[<article><h1>Hello!</h1><p>Sky GIF</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/290fb7c5b33c5e4ccbe267808f7ed35778b7cafd.gif"></article>]]></description>
-            <link>undefinedhello/index.html</link>
+            <link>http://www.skylinelady.com/hello/index.html</link>
             <guid isPermaLink="false">606bb069-f9d1-4134-8f38-ba40128efbf7</guid>
             <pubDate>Sat, 16 Jan 2016 12:07:59 GMT</pubDate>
         </item>
