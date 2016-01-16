@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'https://de.pinterest.com/skylinelady/'
 inLanguage: null
 starred: false
 keywords: []
 description: Follow my posts and boards on Pinterest
-datePublished: '2016-01-16T15:21:11.922Z'
-dateModified: '2016-01-16T15:21:11.766Z'
+datePublished: '2016-01-16T15:53:22.369Z'
+dateModified: '2016-01-16T15:53:19.989Z'
 author: []
 title: Follow my boards
 sourcePath: _posts/2016-01-16-follow-my-boards.md
@@ -18,7 +19,6 @@ publisher:
   domain: de.pinterest.com
   url: null
   favicon: null
-url: follow-my-boards/index.html
 _context: 'http://schema.org'
 _type: Article
 
