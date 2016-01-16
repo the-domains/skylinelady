@@ -4,8 +4,15 @@
         <description><![CDATA[Skylinelady Travel & Lifestyle]]></description>
         <link>https://thegrid.ai/skylinelady/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 17:40:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2016 17:41:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/skylinelady/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Me]]></title>
+            <description><![CDATA[<article><h1>About Me</h1><h2>Meanwhile you can follow me #skylinelady</h2><p>There is still a lot to discover in this world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/72e86dda101108a8dc77acb7b9a9dbcfb4953865.jpg"></article>]]></description>
+            <link>https://thegrid.ai/skylinelady/about-me/index.html</link>
+            <guid isPermaLink="false">ff5bc2ce-12da-49d0-a21e-fe15f1cd1bd4</guid>
+            <pubDate>Sat, 16 Jan 2016 17:36:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Grid AI]]></title>
             <description><![CDATA[<article><h1>The Grid AI</h1><p>A website builder with artificial intelligence?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a21c33133dd4b6505f2b86d560b4d639fce93e7.png"></article>]]></description>
@@ -61,13 +68,6 @@
             <link>https://de.foursquare.com/skylinelady?all=lists</link>
             <guid isPermaLink="false">4c66e050-fe13-4f6b-b272-f563a7700092</guid>
             <pubDate>Sat, 16 Jan 2016 16:10:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About Me]]></title>
-            <description><![CDATA[<article><h1>About Me</h1><h2>Meanwhile you can follow me #skylinelady</h2><p>There is still a lot to discover in this world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/72e86dda101108a8dc77acb7b9a9dbcfb4953865.jpg"></article>]]></description>
-            <link>https://thegrid.ai/skylinelady/about-me/index.html</link>
-            <guid isPermaLink="false">ff5bc2ce-12da-49d0-a21e-fe15f1cd1bd4</guid>
-            <pubDate>Sat, 16 Jan 2016 16:40:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Straßenbahnlinie 12]]></title>
