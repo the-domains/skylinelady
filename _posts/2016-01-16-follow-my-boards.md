@@ -7,10 +7,10 @@ inLanguage: null
 starred: false
 keywords: []
 description: Follow my posts and boards on Pinterest
-datePublished: '2016-01-16T15:53:23.904Z'
-dateModified: '2016-01-16T15:53:23.581Z'
+datePublished: '2016-01-16T16:11:43.978Z'
+dateModified: '2016-01-16T16:11:40.146Z'
 author: []
-title: Follow my boards
+title: Follow my boards Pinterest
 sourcePath: _posts/2016-01-16-follow-my-boards.md
 published: true
 authors: []
@@ -23,10 +23,8 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/86ee2974e5f14a313f54f69b7f06f3d4f4805d39.gif)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/542a381aa2cef89928b00e57a7d6f4a8067127e3.gif)
 
-# Follow my boards
-
-# Schau dir mein Profil bei [Pinterest][0] an.
+# Follow my boards [Pinterest][0]
 
 [0]: https://www.pinterest.com/skylinelady/
