@@ -4,15 +4,8 @@
         <description><![CDATA[Skylinelady Travel & Lifestyle]]></description>
         <link>https://thegrid.ai/skylinelady/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 12:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2016 12:22:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/skylinelady/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[See my recommendations lists on Foursquare]]></title>
-            <description><![CDATA[<article><h1>See my recommendations lists on Foursquare</h1><p>Fotos, Tipps, Listen, Badges, Mayorships </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/85cba8d1b6c2fe4b95615618391abde820000dba.jpg"></article>]]></description>
-            <link>https://thegrid.ai/skylinelady/see-my-recommendations-lists-on-foursquare/index.html</link>
-            <guid isPermaLink="false">4c66e050-fe13-4f6b-b272-f563a7700092</guid>
-            <pubDate>Sat, 16 Jan 2016 12:20:44 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Follow my G+Page]]></title>
             <description><![CDATA[<article><h1>Follow my G+Page</h1><p>Caroline Kapfinger - Google+</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f8aa2330f6532bb2a50df6011ed2bed1f91ad4d8.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/skylinelady/soundspiration/index.html</link>
             <guid isPermaLink="false">dd9dc671-06f6-4b25-ab65-cd9a2e69b51f</guid>
             <pubDate>Sat, 16 Jan 2016 12:19:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New York]]></title>
+            <description><![CDATA[<article><h1>New York</h1><p>Find my tips on Foursquare</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8eb955b0bc7181a4664323200f2f74ea3754bb6e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/skylinelady/new-york/index.html</link>
+            <guid isPermaLink="false">359d8f7a-b51f-4a88-8a90-f85c9b70cf91</guid>
+            <pubDate>Sat, 16 Jan 2016 12:19:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
