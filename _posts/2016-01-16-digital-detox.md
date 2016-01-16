@@ -1,7 +1,8 @@
 ---
-inFeed: false
-hasPage: true
+inFeed: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=OINa46HeWg8&feature=youtu.be'
 inLanguage: en
 starred: false
 keywords:
@@ -16,8 +17,8 @@ keywords:
   - smartphones
   - crawford
 description: ''
-datePublished: '2016-01-16T15:08:23.134Z'
-dateModified: '2016-01-16T15:08:22.860Z'
+datePublished: '2016-01-16T15:35:29.647Z'
+dateModified: '2016-01-16T15:35:27.122Z'
 author:
   - name: charstarleneTV
     url: 'https://www.youtube.com/user/charstarleneTV'
@@ -43,7 +44,6 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-url: digital-detox/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
