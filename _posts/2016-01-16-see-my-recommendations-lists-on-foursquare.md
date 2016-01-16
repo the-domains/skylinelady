@@ -16,8 +16,8 @@ keywords:
   - apricot
   - dumplings
 description: Foursquare
-datePublished: '2016-01-16T15:14:27.758Z'
-dateModified: '2016-01-16T15:14:27.306Z'
+datePublished: '2016-01-16T15:25:29.620Z'
+dateModified: '2016-01-16T15:25:26.492Z'
 author: []
 related: []
 app_links: []
@@ -35,7 +35,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eef77b95-23c0-4a1a-b341-bccd8d47c1d4.gif)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/df3d35780422953802b80c4e7baa087e828c8237.gif)
 
 # See my recommendations lists on [Foursquare][0]
 
