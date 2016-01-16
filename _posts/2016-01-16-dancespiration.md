@@ -17,8 +17,8 @@ keywords:
   - diesel
   - http
 description: ''
-datePublished: '2016-01-16T15:54:59.461Z'
-dateModified: '2016-01-16T15:54:59.341Z'
+datePublished: '2016-01-16T15:54:59.341Z'
+dateModified: '2016-01-16T15:54:59.147Z'
 author:
   - name: i-D
     url: 'https://www.youtube.com/user/idmagazineonline'
