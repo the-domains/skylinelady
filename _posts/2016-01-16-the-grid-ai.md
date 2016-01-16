@@ -17,8 +17,8 @@ keywords:
   - automatically
   - layout
 description: 'This is not another do-it-yourself website builder. The Grid harnesses the power of artificial intelligence to take everything you throw at it - videos, images, text, urls and more - and automatically shape them into a custom website unique to you. As your needs grow, it evolves with you, effortlessly adapting to your needs.'
-datePublished: '2016-01-16T17:26:51.653Z'
-dateModified: '2016-01-16T17:26:51.355Z'
+datePublished: '2016-01-16T17:26:51.690Z'
+dateModified: '2016-01-16T17:26:51.548Z'
 author: []
 related: []
 app_links: []
