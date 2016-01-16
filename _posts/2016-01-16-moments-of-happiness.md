@@ -1,7 +1,8 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=wni_nsyGAsw&feature=youtu.be'
 inLanguage: en
 starred: false
 keywords:
@@ -15,9 +16,9 @@ keywords:
   - sleep
   - yellowbrickcinema
   - healing
-description: In between
-datePublished: '2016-01-16T12:20:44.072Z'
-dateModified: '2016-01-14T20:15:26.489Z'
+description: ''
+datePublished: '2016-01-16T15:34:57.108Z'
+dateModified: '2016-01-16T15:34:55.214Z'
 author:
   - name: calmdotcom
     url: 'https://www.youtube.com/user/calmdotcom'
@@ -35,15 +36,14 @@ app_links:
   - url: 'https://www.youtube.com/watch?v=wni_nsyGAsw&feature=applinks'
     type: web
 title: Moments of happiness
+sourcePath: _posts/2016-01-16-moments-of-happiness.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-01-16-moments-of-happiness.md
-published: true
-url: moments-of-happiness/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
