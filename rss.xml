@@ -4,8 +4,15 @@
         <description><![CDATA[Skylinelady Travel & Lifestyle]]></description>
         <link>https://thegrid.ai/skylinelady/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 16:50:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2016 16:51:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/skylinelady/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Travel Europe]]></title>
+            <description><![CDATA[<article><h1>Travel Europe</h1><p>Find my tips on Foursquare</p></article>]]></description>
+            <link>https://thegrid.ai/skylinelady/frankfurt/index.html</link>
+            <guid isPermaLink="false">8e38d9b5-a213-436c-8814-8e61b9472b92</guid>
+            <pubDate>Sat, 16 Jan 2016 16:46:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Follow my post on Instagram]]></title>
             <description><![CDATA[<article><h1>Follow my post on Instagram</h1><p>Instagram</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4429981b7867de280ebbb9e32720803e63e42789.gif"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=UFZxK8edZWA&amp;sns=tw</link>
             <guid isPermaLink="false">cdba834d-04e2-4c69-a045-3c9c84d95b17</guid>
             <pubDate>Sat, 16 Jan 2016 15:54:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Travel US ]]></title>
-            <description><![CDATA[<article><h1>Travel US </h1><h2>New York</h2><p>Find my tips on Foursquare</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8eb955b0bc7181a4664323200f2f74ea3754bb6e.jpg"></article>]]></description>
-            <link>https://thegrid.ai/skylinelady/new-york/index.html</link>
-            <guid isPermaLink="false">359d8f7a-b51f-4a88-8a90-f85c9b70cf91</guid>
-            <pubDate>Sat, 16 Jan 2016 16:46:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
