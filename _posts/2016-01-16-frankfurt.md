@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Frankfurt
-datePublished: '2016-01-16T16:47:04.365Z'
+datePublished: '2016-01-16T16:47:04.418Z'
 dateModified: '2016-01-16T16:47:04.167Z'
 title: Travel Europe
 author: []
