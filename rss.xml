@@ -4,8 +4,15 @@
         <description><![CDATA[Skylinelady Travel & Lifestyle]]></description>
         <link>https://thegrid.ai/skylinelady/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 13:46:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2016 14:06:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/skylinelady/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Travel New York]]></title>
+            <description><![CDATA[<article><h1>Travel New York</h1><p>Find my tips on Foursquare</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b0bdc1ec792e6af8295b1bd603b9e0b0145b9e4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/skylinelady/new-york/index.html</link>
+            <guid isPermaLink="false">359d8f7a-b51f-4a88-8a90-f85c9b70cf91</guid>
+            <pubDate>Sat, 16 Jan 2016 14:05:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Grid AI]]></title>
             <description><![CDATA[<article><h1>The Grid AI</h1><p>A website builder with artificial intelligence?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/31e6f288871d6baea4c91d7ef3cc3b52ddfce42f.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Lights</h1><p>Blitz Gewitter - Thunderstorm at night ⚡️</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f69e454f97214856bba26cd412f4e0242036302d.jpg"></article>]]></description>
             <link>https://thegrid.ai/skylinelady/lights/index.html</link>
             <guid isPermaLink="false">d77c5c7a-d473-42a6-909c-ac47427a4647</guid>
-            <pubDate>Sat, 16 Jan 2016 12:19:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Digital Detox ]]></title>
-            <description><![CDATA[<article><h1>Digital Detox </h1><p>Manchmal tut ein Digitaler Detox einfach gut, da könnt ihr sagen was ihr wollt. Momente in denen man sein Mobiltelefon vergisst kommen vor. Viele haben das Selbstexperiment gemacht und siehe da, nach anfänglicher Trauer, dem Gefühl der Abgeschiedenheit kommt doch die Erleichterung. Schlagartig erleben wir Dinge und sind letztlich zufrieden auch mal nicht erreichbar zu sein und  einfach nur den Moment zu erleben – im Hier und Jetzt.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9a936ef7a9c48c2fe05647e73955965a17f7eca.jpg"></article>]]></description>
-            <link>https://thegrid.ai/skylinelady/digital-detox/index.html</link>
-            <guid isPermaLink="false">9f3c689d-d38f-4999-96c7-52ee795f7600</guid>
             <pubDate>Sat, 16 Jan 2016 12:19:29 GMT</pubDate>
         </item>
     </channel>
