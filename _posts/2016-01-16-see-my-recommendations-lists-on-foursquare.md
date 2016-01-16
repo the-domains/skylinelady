@@ -1,7 +1,8 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'https://de.foursquare.com/skylinelady?all=lists'
 inLanguage: en
 starred: false
 keywords:
@@ -16,8 +17,8 @@ keywords:
   - apricot
   - dumplings
 description: Foursquare
-datePublished: '2016-01-16T15:25:31.899Z'
-dateModified: '2016-01-16T15:25:31.712Z'
+datePublished: '2016-01-16T15:31:59.482Z'
+dateModified: '2016-01-16T15:31:56.981Z'
 author: []
 related: []
 app_links: []
@@ -30,7 +31,6 @@ publisher:
   domain: de.foursquare.com
   url: 'https://de.foursquare.com'
   favicon: 'https://de.foursquare.com/favicon.ico'
-url: see-my-recommendations-lists-on-foursquare/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
