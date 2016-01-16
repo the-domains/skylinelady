@@ -1,13 +1,14 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://plus.google.com/u/0/111241938616127816510/posts'
 inLanguage: null
 starred: false
 keywords: []
-description: Google+
-datePublished: '2016-01-16T15:19:11.845Z'
-dateModified: '2016-01-16T15:19:11.502Z'
+description: ''
+datePublished: '2016-01-16T15:58:43.974Z'
+dateModified: '2016-01-16T15:58:41.145Z'
 author:
   - avatar:
       src: 'https://lh3.googleusercontent.com/-YyLeyOwMBsQ/AAAAAAAAAAI/AAAAAAAAAAA/xkFtu3rL7HU/s46-c-k-no/photo.jpg'
@@ -40,7 +41,6 @@ publisher:
   domain: plus.google.com
   url: 'https://plus.google.com'
   favicon: 'https://ssl.gstatic.com/images/branding/product/ico/google_plus_alldp.ico'
-url: follow-my-gpage/index.html
 _type: Photograph
 _context: 'http://schema.org'
 
