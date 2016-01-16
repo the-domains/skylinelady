@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://de.pinterest.com/skylinelady/'
 inLanguage: null
 starred: false
 keywords: []
-description: Follow my posts and boards on Pinterest
-datePublished: '2016-01-16T16:11:47.035Z'
-dateModified: '2016-01-16T16:11:46.669Z'
+description: Pinterest
+datePublished: '2016-01-16T16:49:14.425Z'
+dateModified: '2016-01-16T16:49:10.368Z'
 author: []
 title: Follow my boards Pinterest
 sourcePath: _posts/2016-01-16-follow-my-boards.md
@@ -23,7 +23,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/542a381aa2cef89928b00e57a7d6f4a8067127e3.gif)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/43ca66458724a324cada3a8f465196639c186698.gif)
 
 # Follow my boards [Pinterest][0]
 
