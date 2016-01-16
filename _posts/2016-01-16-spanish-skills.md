@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Spanisk Skills
-datePublished: '2016-01-16T16:39:10.675Z'
-dateModified: '2016-01-16T16:39:10.288Z'
+datePublished: '2016-01-16T16:39:10.769Z'
+dateModified: '2016-01-16T16:39:10.378Z'
 author: []
 title: In between
 sourcePath: _posts/2016-01-16-spanish-skills.md
