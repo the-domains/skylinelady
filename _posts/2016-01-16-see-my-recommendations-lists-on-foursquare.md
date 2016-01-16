@@ -16,9 +16,9 @@ keywords:
   - liebevoll
   - apricot
   - dumplings
-description: Foursquare
-datePublished: '2016-01-16T15:31:59.482Z'
-dateModified: '2016-01-16T15:31:56.981Z'
+description: ''
+datePublished: '2016-01-16T16:10:05.158Z'
+dateModified: '2016-01-16T16:10:01.892Z'
 author: []
 related: []
 app_links: []
@@ -38,9 +38,5 @@ _type: MediaObject
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/df3d35780422953802b80c4e7baa087e828c8237.gif)
 
 # See my recommendations lists on [Foursquare][0]
-
-<article style=""><h1>Recommends</h1><p>Fotos, Tipps, Listen, Badges, Mayorships </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/85cba8d1b6c2fe4b95615618391abde820000dba.jpg" /></article>
-
-
 
 [0]: https://de.foursquare.com/skylinelady/lists
