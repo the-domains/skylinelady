@@ -1,7 +1,7 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: en
 starred: false
 keywords:
@@ -15,9 +15,9 @@ keywords:
   - geronimo
   - smartphones
   - crawford
-description: In between
-datePublished: '2016-01-16T12:19:29.975Z'
-dateModified: '2016-01-14T19:18:29.582Z'
+description: ''
+datePublished: '2016-01-16T15:08:22.327Z'
+dateModified: '2016-01-16T15:08:17.741Z'
 author:
   - name: charstarleneTV
     url: 'https://www.youtube.com/user/charstarleneTV'
@@ -35,14 +35,14 @@ app_links:
   - url: 'https://www.youtube.com/watch?v=OINa46HeWg8&feature=applinks'
     type: web
 title: "Digital Detox\_"
+sourcePath: _posts/2016-01-16-digital-detox.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-01-16-digital-detox.md
-published: true
 url: digital-detox/index.html
 _type: VideoObject
 _context: 'http://schema.org'
