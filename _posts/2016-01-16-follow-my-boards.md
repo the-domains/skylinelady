@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Follow my posts and boards on Pinterest
-datePublished: '2016-01-16T15:04:12.675Z'
+datePublished: '2016-01-16T15:04:12.691Z'
 dateModified: '2016-01-16T15:04:12.493Z'
 author: []
 title: Follow my boards
