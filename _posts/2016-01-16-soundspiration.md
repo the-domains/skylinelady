@@ -1,7 +1,8 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=GooxSsUWiNM'
 inLanguage: en
 starred: false
 keywords:
@@ -15,9 +16,9 @@ keywords:
   - erpel
   - linz
   - rhineland
-description: In between
-datePublished: '2016-01-16T12:19:29.963Z'
-dateModified: '2016-01-14T19:11:12.384Z'
+description: ''
+datePublished: '2016-01-16T15:40:16.983Z'
+dateModified: '2016-01-16T15:40:15.767Z'
 author:
   - name: Caroline Kapfinger
     url: 'https://www.youtube.com/user/skylineladyz'
@@ -35,15 +36,14 @@ app_links:
   - url: 'https://www.youtube.com/watch?v=GooxSsUWiNM&feature=applinks'
     type: web
 title: Soundspiration
+sourcePath: _posts/2016-01-16-soundspiration.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-01-16-soundspiration.md
-published: true
-url: soundspiration/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
