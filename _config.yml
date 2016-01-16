@@ -1,6 +1,6 @@
 name: Skylinelady
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.03004
 typography_spectrum: 0.60949
 collections:
   - index:
@@ -34,7 +34,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0
+  brandStrength: 0.0625
   lightness: 0.5625
   saturation: 0.625
   rhythmicContrast: 0.25
