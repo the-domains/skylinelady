@@ -16,8 +16,8 @@ keywords:
   - smartphones
   - crawford
 description: ''
-datePublished: '2016-01-16T15:08:22.412Z'
-dateModified: '2016-01-16T15:08:17.741Z'
+datePublished: '2016-01-16T15:08:22.676Z'
+dateModified: '2016-01-16T15:08:22.412Z'
 author:
   - name: charstarleneTV
     url: 'https://www.youtube.com/user/charstarleneTV'
