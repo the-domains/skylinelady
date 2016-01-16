@@ -4,8 +4,15 @@
         <description><![CDATA[Skylinelady Travel & Lifestyle]]></description>
         <link>https://thegrid.ai/skylinelady/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 17:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2016 17:15:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/skylinelady/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Repost]]></title>
+            <description><![CDATA[<article><h1>Repost</h1><p>Follow my  Tweets (@skylinelady). </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9b649c545ed582edd0ac4bd408e180e20dd418a.gif"></article>]]></description>
+            <link>https://twitter.com/skylinelady?lang=de</link>
+            <guid isPermaLink="false">68ebe996-4b0c-4ad6-a84a-bf5287ab9847</guid>
+            <pubDate>Sat, 16 Jan 2016 17:12:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Follow my boards Pinterest]]></title>
             <description><![CDATA[<article><h1>Follow my boards Pinterest</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fec025bd0c2bf290029dc8cca9bcbbe2ee7b2114.gif"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=YO0xnzDXY_4</link>
             <guid isPermaLink="false">d77c5c7a-d473-42a6-909c-ac47427a4647</guid>
             <pubDate>Sat, 16 Jan 2016 16:38:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Follow my G+Page]]></title>
-            <description><![CDATA[<article><h1>Follow my G+Page</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/560d545262ed7584972fd439ef0a3cd8c9416d55.gif"></article>]]></description>
-            <link>https://plus.google.com/u/0/111241938616127816510/posts</link>
-            <guid isPermaLink="false">29d6c1d7-da3e-44c1-b645-dbf3609ad964</guid>
-            <pubDate>Sat, 16 Jan 2016 17:11:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
