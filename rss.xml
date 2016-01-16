@@ -4,8 +4,29 @@
         <description><![CDATA[Skylinelady Travel & Lifestyle]]></description>
         <link>https://thegrid.ai/skylinelady/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 12:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2016 12:19:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/skylinelady/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Neapel]]></title>
+            <description><![CDATA[<article><h1>Neapel</h1><p>Find my tips on Foursquare</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce3587cb6f2c4cd4ff97157f749a29027bb4b95e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/skylinelady/neapel/index.html</link>
+            <guid isPermaLink="false">690f448c-3577-428f-8dc5-cabfd407e1f6</guid>
+            <pubDate>Sat, 16 Jan 2016 12:19:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Frankfurt]]></title>
+            <description><![CDATA[<article><h1>Frankfurt</h1><p>Find my tips on Foursquare</p></article>]]></description>
+            <link>https://thegrid.ai/skylinelady/frankfurt/index.html</link>
+            <guid isPermaLink="false">8e38d9b5-a213-436c-8814-8e61b9472b92</guid>
+            <pubDate>Sat, 16 Jan 2016 12:19:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Amsterdam]]></title>
+            <description><![CDATA[<article><h1>Amsterdam</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/264afc3cbd80e330e541a77a17012423b2d2e88b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/skylinelady/amsterdam/index.html</link>
+            <guid isPermaLink="false">0bd76fe7-b905-4ca2-b4e9-caa6450149bd</guid>
+            <pubDate>Sat, 16 Jan 2016 12:19:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bratislava]]></title>
             <description><![CDATA[<article><h1>Bratislava</h1><p>Find my tips on Foursquare</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cec8ac56b15917a1198ce8ce10e4782ec0abdd8f.jpg"></article>]]></description>
@@ -54,27 +75,6 @@
             <link>https://thegrid.ai/skylinelady/tram-12/index.html</link>
             <guid isPermaLink="false">dd50fb3e-654b-4352-a12b-c30acaa408f2</guid>
             <pubDate>Sat, 16 Jan 2016 12:15:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spanish Skills]]></title>
-            <description><![CDATA[<article><h1>Spanish Skills</h1><p>Well the plan is to improve my Spanish skills.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e3fa38fe1c9cda033c5e2776a811489a4d9dacd.gif"></article>]]></description>
-            <link>https://thegrid.ai/skylinelady/spanish-skills/index.html</link>
-            <guid isPermaLink="false">4030c60a-d1c6-4807-85ac-e45f1c2adc21</guid>
-            <pubDate>Sat, 16 Jan 2016 12:15:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Celebration]]></title>
-            <description><![CDATA[<article><h1>Celebration</h1><p>First Post</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2619f6a8fcba5850331ca30adf84305c2ad9acfa.gif"></article>]]></description>
-            <link>https://thegrid.ai/skylinelady/celebration/index.html</link>
-            <guid isPermaLink="false">6c87f45f-7be3-46fb-b3d6-76df96500363</guid>
-            <pubDate>Sat, 16 Jan 2016 12:15:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About Me]]></title>
-            <description><![CDATA[<article><h1>About Me</h1><p>There is still a lot to discover in this world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c3f015d8a0880854b63754b0a3860a6e24e203c4.jpg"></article>]]></description>
-            <link>https://thegrid.ai/skylinelady/about-me/index.html</link>
-            <guid isPermaLink="false">ff5bc2ce-12da-49d0-a21e-fe15f1cd1bd4</guid>
-            <pubDate>Sat, 16 Jan 2016 12:09:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
