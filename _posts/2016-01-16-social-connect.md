@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Instagram
-datePublished: '2016-01-16T15:39:54.382Z'
-dateModified: '2016-01-16T15:39:54.032Z'
+datePublished: '2016-01-16T16:29:32.917Z'
+dateModified: '2016-01-16T16:29:28.523Z'
 author: []
 related: []
 app_links:
@@ -34,7 +34,6 @@ _context: 'http://schema.org'
 
 ---
 ## Follow my post on **[Instagram][0]**
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d561d9ad049e6d9166cdf2e2120f04f0caa6578.gif)
-![Caroline &lpar;&commat;skylinelady&rpar; &midast; Instagram photos and videos](https://scontent.cdninstagram.com/hphotos-xpt1/t51.2885-19/s150x150/11930897_430674343802703_686316125_a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b51867a03009cbc361b71f3dc916ccfa432b09e.gif)
 
 [0]: https://app.thegrid.io/posts/d87b689e-084e-4708-8a4b-954976816e42/null
