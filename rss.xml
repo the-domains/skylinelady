@@ -4,11 +4,18 @@
         <description><![CDATA[Skylinelady Travel & Lifestyle]]></description>
         <link>https://thegrid.ai/skylinelady/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 15:03:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2016 15:05:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/skylinelady/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[About Me]]></title>
+            <description><![CDATA[<article><h1>About Me</h1><p>There is still a lot to discover in this world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c3f015d8a0880854b63754b0a3860a6e24e203c4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/skylinelady/about-me/index.html</link>
+            <guid isPermaLink="false">ff5bc2ce-12da-49d0-a21e-fe15f1cd1bd4</guid>
+            <pubDate>Sat, 16 Jan 2016 15:04:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Celebration]]></title>
-            <description><![CDATA[<article><h1>Celebration</h1><p>About Me First Post - Celebrate</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/56763cf1e92b749409cdf21abf900c56ce13367f.gif"></article>]]></description>
+            <description><![CDATA[<article><h1>Celebration</h1><p>About Me First Post - Celebrate</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f59215edf00a48a09635fd95014ab2c30eff93c.gif"></article>]]></description>
             <link>http://giphy.com/search/celebration/3</link>
             <guid isPermaLink="false">6c87f45f-7be3-46fb-b3d6-76df96500363</guid>
             <pubDate>Sat, 16 Jan 2016 15:03:43 GMT</pubDate>
@@ -57,23 +64,16 @@
         </item>
         <item>
             <title><![CDATA[Follow my boards]]></title>
-            <description><![CDATA[<article><h1>Follow my boards</h1><p>Pinterest</p></article>]]></description>
+            <description><![CDATA[<article><h1>Follow my boards</h1><p>Follow my posts and boards on Pinterest</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cec7cf8a3e0e7280e8cfd9d1360bbaa5517a48bc.gif"></article>]]></description>
             <link>https://thegrid.ai/skylinelady/follow-my-boards/index.html</link>
             <guid isPermaLink="false">d479f5da-82eb-42c8-8ba6-3ed040fe83d5</guid>
-            <pubDate>Sat, 16 Jan 2016 12:20:44 GMT</pubDate>
+            <pubDate>Sat, 16 Jan 2016 15:04:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Twitter]]></title>
             <description><![CDATA[<article><h1>Twitter</h1><p>Follow my  Tweets (@skylinelady). </p></article>]]></description>
             <link>https://thegrid.ai/skylinelady/twitter/index.html</link>
             <guid isPermaLink="false">68ebe996-4b0c-4ad6-a84a-bf5287ab9847</guid>
-            <pubDate>Sat, 16 Jan 2016 12:20:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Moments of happiness]]></title>
-            <description><![CDATA[<article><h1>Moments of happiness</h1><p>Meditation is scientifically proven to lower stress, increase happiness and much more. Learn today with our free 7 Days of Calm program: iPhone: https://itunes.apple.com/gb/app/calm-... Android: https://play.google.com/store/apps/de... Web: http://www.calm.com The Book: http://www.amazon.co.uk/gp/product/02... Twitter: http://www.twitter.com/calm Facebook: http://www.facebook.com/calmdotcom</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6216a0e1eda306d1d4e160ade551c8c9489d81dd.jpg"></article>]]></description>
-            <link>https://thegrid.ai/skylinelady/moments-of-happiness/index.html</link>
-            <guid isPermaLink="false">98c16c24-a329-4252-b35f-fab1d4a29d75</guid>
             <pubDate>Sat, 16 Jan 2016 12:20:44 GMT</pubDate>
         </item>
     </channel>
