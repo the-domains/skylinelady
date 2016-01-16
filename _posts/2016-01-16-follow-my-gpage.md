@@ -7,7 +7,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T16:56:44.219Z'
+datePublished: '2016-01-16T16:56:44.260Z'
 dateModified: '2016-01-16T16:56:43.950Z'
 author:
   - avatar:
