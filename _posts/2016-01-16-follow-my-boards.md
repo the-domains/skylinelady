@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T17:20:46.464Z'
-dateModified: '2016-01-16T17:20:46.112Z'
+datePublished: '2016-01-16T17:40:28.504Z'
+dateModified: '2016-01-16T17:40:22.038Z'
 author: []
 title: "Follow my boards on\_Pinterest"
 sourcePath: _posts/2016-01-16-follow-my-boards.md
@@ -26,6 +26,5 @@ _type: Article
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/43ca66458724a324cada3a8f465196639c186698.gif)
 
 # Follow my boards on [Pinterest][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/acaf97d2-2ce8-411c-867a-29f3d5e7dffb.png)
 
 [0]: https://www.pinterest.com/skylinelady/
