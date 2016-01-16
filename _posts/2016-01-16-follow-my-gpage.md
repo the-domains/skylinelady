@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T16:56:44.260Z'
-dateModified: '2016-01-16T16:56:43.950Z'
+datePublished: '2016-01-16T17:10:53.228Z'
+dateModified: '2016-01-16T17:10:49.107Z'
 author:
   - avatar:
       src: 'https://lh3.googleusercontent.com/-YyLeyOwMBsQ/AAAAAAAAAAI/AAAAAAAAAAA/xkFtu3rL7HU/s46-c-k-no/photo.jpg'
@@ -47,4 +47,6 @@ _context: 'http://schema.org'
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dda194c0b25e604dd2c02ca270c2935c84b85ec2.gif)
 
-# Follow my G+Page
+# Follow my [G+Page][0]
+
+[0]: https://plus.google.com/111241938616127816510/posts
