@@ -7,7 +7,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T17:40:29.910Z'
+datePublished: '2016-01-16T17:40:29.952Z'
 dateModified: '2016-01-16T17:40:29.547Z'
 author: []
 title: "Follow my boards on\_Pinterest"
