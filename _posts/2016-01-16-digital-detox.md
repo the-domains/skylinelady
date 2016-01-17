@@ -1,7 +1,7 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -16,8 +16,8 @@ keywords:
   - smartphones
   - crawford
 description: "Digital Detox\_"
-datePublished: '2016-01-16T20:53:51.072Z'
-dateModified: '2016-01-16T20:53:50.807Z'
+datePublished: '2016-01-16T21:03:31.303Z'
+dateModified: '2016-01-16T21:03:26.917Z'
 author:
   - name: charstarleneTV
     url: 'https://www.youtube.com/user/charstarleneTV'
