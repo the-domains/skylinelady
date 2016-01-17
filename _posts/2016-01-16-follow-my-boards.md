@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T02:58:35.418Z'
-dateModified: '2016-01-17T02:58:34.752Z'
+datePublished: '2016-01-17T02:58:35.647Z'
+dateModified: '2016-01-17T02:58:35.260Z'
 author: []
 title: "Or follow my boards on\_Pinterest"
 sourcePath: _posts/2016-01-16-follow-my-boards.md
