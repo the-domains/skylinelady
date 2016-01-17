@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=OINa46HeWg8&feature=youtu.be'
 inLanguage: en
 starred: false
 keywords:
@@ -16,9 +15,9 @@ keywords:
   - geronimo
   - smartphones
   - crawford
-description: ''
-datePublished: '2016-01-16T15:35:29.745Z'
-dateModified: '2016-01-16T15:35:27.122Z'
+description: "Digital Detox\_"
+datePublished: '2016-01-16T20:52:39.310Z'
+dateModified: '2016-01-16T20:47:16.555Z'
 author:
   - name: charstarleneTV
     url: 'https://www.youtube.com/user/charstarleneTV'
@@ -35,7 +34,7 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=OINa46HeWg8&feature=applinks'
     type: web
-title: "Digital Detox\_"
+title: Lifestyle
 sourcePath: _posts/2016-01-16-digital-detox.md
 published: true
 authors: []
@@ -44,11 +43,14 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+url: lifestyle/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-# Digital Detox 
+# Lifestyle
+
+## Digital Detox 
 
 Manchmal tut ein Digitaler Detox einfach gut, da könnt ihr sagen was ihr wollt. Momente in denen man sein Mobiltelefon vergisst kommen vor. Viele haben das Selbstexperiment gemacht und siehe da, nach anfänglicher Trauer, dem Gefühl der Abgeschiedenheit kommt doch die Erleichterung. Schlagartig erleben wir Dinge und sind letztlich zufrieden auch mal nicht erreichbar zu sein und  einfach nur den Moment zu erleben -- im Hier und Jetzt.
 
