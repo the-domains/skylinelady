@@ -7,21 +7,21 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T21:58:43.752Z'
-dateModified: '2016-01-16T21:58:34.160Z'
+datePublished: '2016-01-16T22:07:16.756Z'
+dateModified: '2016-01-16T22:07:15.944Z'
 author: []
-title: Make everything OK
+title: "Make\_everything OK"
+sourcePath: _posts/2016-01-16-make-everything-ok.md
+published: true
 authors: []
 publisher:
   name: 38.media.tumblr.com
   domain: 38.media.tumblr.com
   url: null
   favicon: null
-sourcePath: _posts/2016-01-16-make-everything-ok.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
 ---
-**Make everything OK**
+# Make ****everything**OK**
 ![Make everything OK](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0096847b59a31140b8a136a8bb679b00b227ce12.gif)
