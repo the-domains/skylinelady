@@ -17,7 +17,7 @@ keywords:
   - tweet
   - wired
 description: Twitter
-datePublished: '2016-01-16T20:10:25.467Z'
+datePublished: '2016-01-16T20:10:25.470Z'
 dateModified: '2016-01-16T20:10:24.148Z'
 author:
   - name: wiredphoto
