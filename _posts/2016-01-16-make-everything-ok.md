@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T00:57:43.920Z'
-dateModified: '2016-01-17T00:57:10.013Z'
+datePublished: '2016-01-17T01:21:22.285Z'
+dateModified: '2016-01-17T01:21:19.864Z'
 author: []
 title: "Make\_everything OK"
 sourcePath: _posts/2016-01-16-make-everything-ok.md
@@ -23,8 +23,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![The Good Maker](https://s3-us-west-2.amazonaws.com/the-grid-img/p/68195dc2851beb4e8ca79150900600bc02a58348.gif)
-
 # Make ****everything**OK**
+![The Good Maker](https://s3-us-west-2.amazonaws.com/the-grid-img/p/68195dc2851beb4e8ca79150900600bc02a58348.gif)
 
 If it were just so simple. But if everything would be just easy, then life would be pretty boring. Don't you think? Especially challenges inspire us and let us engage our experience.
