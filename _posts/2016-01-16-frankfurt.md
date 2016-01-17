@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Frankfurt
-datePublished: '2016-01-16T16:47:04.659Z'
-dateModified: '2016-01-16T16:47:04.418Z'
+description: TravelEurope
+datePublished: '2016-01-16T21:30:05.144Z'
+dateModified: '2016-01-16T21:30:00.738Z'
 title: Travel Europe
 author: []
 sourcePath: _posts/2016-01-16-frankfurt.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: frankfurt/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/29bb6ba665d3a7c8d8c827954ea19914f0c5c4ac.jpg)
