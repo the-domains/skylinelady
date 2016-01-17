@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://plus.google.com/u/0/111241938616127816510/posts'
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-16T17:11:01.796Z'
-dateModified: '2016-01-16T17:11:01.472Z'
+description: Google+
+datePublished: '2016-01-16T19:56:20.238Z'
+dateModified: '2016-01-16T19:56:03.643Z'
 author:
   - avatar:
       src: 'https://lh3.googleusercontent.com/-YyLeyOwMBsQ/AAAAAAAAAAI/AAAAAAAAAAA/xkFtu3rL7HU/s46-c-k-no/photo.jpg'
@@ -45,7 +45,7 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dda194c0b25e604dd2c02ca270c2935c84b85ec2.gif)
+![Follow me on Google](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd245a9455e44f74079424f394c1a79a7cbd10fc.gif)
 
 # Follow my [G+Page][0]
 
