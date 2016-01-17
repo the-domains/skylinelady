@@ -4,8 +4,15 @@
         <description><![CDATA[Travel & Lifestyle]]></description>
         <link>http://skylinelady.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 15:28:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jan 2016 16:25:17 GMT</lastBuildDate>
         <atom:link href="http://skylinelady.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[See my recommendations lists on Foursquare]]></title>
+            <description><![CDATA[<article><h1>See my recommendations lists on Foursquare</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c05d5a07e55a4fd814a42805dba24cee304314f.gif"></article>]]></description>
+            <link>https://de.foursquare.com/skylinelady?all=lists</link>
+            <guid isPermaLink="false">4c66e050-fe13-4f6b-b272-f563a7700092</guid>
+            <pubDate>Sun, 17 Jan 2016 16:24:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Let's celebrate]]></title>
             <description><![CDATA[<article><h1>Let's celebrate</h1><p>I am a digital native. I love the Internet and its endless possibilities. If I look for a recipe or my next trip preparatory, the Internet is my home. I would call myself a heavy user of Instagram, I check in regularly on Foursquare, collect inspiration boards on Pinterest and Tweet now and then.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba1b7727b53791e22760928e74095795699d8b58.gif"></article>]]></description>
@@ -43,10 +50,10 @@
         </item>
         <item>
             <title><![CDATA[Or follow my boards on Pinterest]]></title>
-            <description><![CDATA[<article><h1>Or follow my boards on Pinterest</h1><p>Here are my creative Inspirations sorted in boards</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5492bd3e3e177d456222a06bc3bb0e26fbb6d4ab.gif"></article>]]></description>
+            <description><![CDATA[<article><h1>Or follow my boards on Pinterest</h1><p>Here are my creative Inspirations sorted in boards</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a4d90f1ce9937308a3e19aee8921ebf5122ab529.gif"></article>]]></description>
             <link>https://de.pinterest.com/skylinelady/</link>
             <guid isPermaLink="false">d479f5da-82eb-42c8-8ba6-3ed040fe83d5</guid>
-            <pubDate>Sun, 17 Jan 2016 15:25:15 GMT</pubDate>
+            <pubDate>Sun, 17 Jan 2016 15:25:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Follow my post on Instagram]]></title>
@@ -68,13 +75,6 @@
             <link>http://38.media.tumblr.com/2c5448705213d1d1ad1c7f362c5c1f86/tumblr_nx60xhHAD61r24iv3o1_500.gif</link>
             <guid isPermaLink="false">0b67f7fa-d84f-45a3-abe0-3a998a455fc7</guid>
             <pubDate>Sun, 17 Jan 2016 15:05:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Than it began in 2015]]></title>
-            <description><![CDATA[<article><h1>Than it began in 2015</h1><p>In January 2015 I started documenting my journeys. And a year later, in January 2016 I have launched my blog. Everything opens up incredible. And that is pretty awesome - I am so grateful.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb57820758b796a0a60692bee644cc4c6fc6ef7d.jpg"></article>]]></description>
-            <link>http://skylinelady.com/than-it-began-in-2015/index.html</link>
-            <guid isPermaLink="false">4104ac9f-56b8-4632-b750-37ce45f95cfa</guid>
-            <pubDate>Sun, 17 Jan 2016 15:18:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
