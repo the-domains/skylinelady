@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: TravelEurope
-datePublished: '2016-01-16T21:30:06.371Z'
+datePublished: '2016-01-16T21:30:06.403Z'
 dateModified: '2016-01-16T21:30:06.192Z'
 title: Travel Europe
 author: []
