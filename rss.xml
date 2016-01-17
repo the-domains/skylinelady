@@ -4,11 +4,18 @@
         <description><![CDATA[Travel & Lifestyle]]></description>
         <link>http://skylinelady.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 16:46:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jan 2016 17:15:23 GMT</lastBuildDate>
         <atom:link href="http://skylinelady.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[tsū]]></title>
+            <description><![CDATA[<article><h1>tsū</h1><p>Have you ever heard about tsū? Me neither, that's why I will test this not new but in some way other social network. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76bf6fa5baf07b8c0fb3141f334004d46764e285.png"></article>]]></description>
+            <link>http://www.tsu.co/skylinelady</link>
+            <guid isPermaLink="false">f0337f19-16c3-4dc4-8351-6d4ebc2358dd</guid>
+            <pubDate>Sun, 17 Jan 2016 17:15:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Snapchat]]></title>
-            <description><![CDATA[<article><h1>Snapchat</h1><p>Let's Social Connect</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0dc33ce84e49d7ea9e6896e246bd63a78a12bea7.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Snapchat</h1><p>Let's Social Connect</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1cdf71f14974db2affb1b62f7db9479d227fc9f2.jpg"></article>]]></description>
             <link>https://skylinelady.com/</link>
             <guid isPermaLink="false">dbc4b648-5492-4b1d-b302-13e9b4589f0f</guid>
             <pubDate>Sun, 17 Jan 2016 16:46:02 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/skylinelady/</link>
             <guid isPermaLink="false">f22a4d5a-8914-4e1d-bf46-8fd101ac7a52</guid>
             <pubDate>Sat, 16 Jan 2016 23:00:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Let's travel the world]]></title>
-            <description><![CDATA[<article><h1>Let's travel the world</h1><p>Guess what is my next destination?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6efe6953b3b70f582a81f336ff02ae5b/noop.gif?input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F4c12fb6c2d1aff278ec1e30d1abd1f4a2c3584d0.gif"></article>]]></description>
-            <link>https://www.tumblr.com/blog/skylinelady</link>
-            <guid isPermaLink="false">9e1ed3c5-85c5-4364-be17-298141e6560c</guid>
-            <pubDate>Sun, 17 Jan 2016 00:57:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
