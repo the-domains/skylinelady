@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: TravelEurope
-datePublished: '2016-01-16T21:31:32.267Z'
-dateModified: '2016-01-16T21:31:31.952Z'
+datePublished: '2016-01-16T21:31:32.327Z'
+dateModified: '2016-01-16T21:31:32.103Z'
 title: Travel Europe
 author: []
 sourcePath: _posts/2016-01-16-frankfurt.md
