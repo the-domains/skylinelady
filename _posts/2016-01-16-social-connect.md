@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Instagram
-datePublished: '2016-01-16T16:29:36.825Z'
-dateModified: '2016-01-16T16:29:36.537Z'
+datePublished: '2016-01-16T22:38:01.032Z'
+dateModified: '2016-01-16T22:37:58.163Z'
 author: []
 related: []
 app_links:
@@ -20,7 +20,7 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-title: Social Connect
+title: Follow my post on Instagram
 sourcePath: _posts/2016-01-16-social-connect.md
 published: true
 authors: []
