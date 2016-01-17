@@ -17,8 +17,8 @@ keywords:
   - tweet
   - wired
 description: Twitter
-datePublished: '2016-01-16T20:10:25.780Z'
-dateModified: '2016-01-16T20:10:25.647Z'
+datePublished: '2016-01-16T20:11:28.555Z'
+dateModified: '2016-01-16T20:11:26.178Z'
 author:
   - name: wiredphoto
     url: 'http://twitter.com/wiredphoto'
@@ -43,7 +43,7 @@ _context: 'http://schema.org'
 ---
 > > These GIFs will make you question your daily grind --- WIRED Photo (@WIREDPhoto) [19\. Oktober 2015][0]
 > 
-> Follow my  Tweets ([@skylinelady][1])
+> **Follow my  Tweets ([@skylinelady][1])**
 
 > 
 
