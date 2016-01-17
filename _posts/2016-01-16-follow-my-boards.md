@@ -7,10 +7,10 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T19:47:59.986Z'
-dateModified: '2016-01-16T19:47:59.748Z'
+datePublished: '2016-01-16T17:40:42.178Z'
+dateModified: '2016-01-16T17:40:41.650Z'
 author: []
-title: "Or follow my boards on\_Pinterest"
+title: "Follow my boards on\_Pinterest"
 sourcePath: _posts/2016-01-16-follow-my-boards.md
 published: true
 authors: []
@@ -25,6 +25,6 @@ _type: Article
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/43ca66458724a324cada3a8f465196639c186698.gif)
 
-# Or follow my boards on [Pinterest][0]
+# Follow my boards on [Pinterest][0]
 
 [0]: https://www.pinterest.com/skylinelady/
