@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Instagram
-datePublished: '2016-01-16T22:40:37.267Z'
-dateModified: '2016-01-16T22:40:36.691Z'
+datePublished: '2016-01-16T22:41:35.196Z'
+dateModified: '2016-01-16T22:41:33.064Z'
 author: []
 related: []
 app_links:
@@ -34,6 +34,6 @@ _context: 'http://schema.org'
 
 ---
 ## Follow my post on **[Instagram][0]**
-![Follow my post on Instagram](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4429981b7867de280ebbb9e32720803e63e42789.gif)
+![Instagram](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4429981b7867de280ebbb9e32720803e63e42789.gif)
 
 [0]: https://app.thegrid.io/posts/d87b689e-084e-4708-8a4b-954976816e42/null
