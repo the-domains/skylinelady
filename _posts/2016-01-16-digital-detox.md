@@ -16,8 +16,8 @@ keywords:
   - smartphones
   - crawford
 description: "Digital Detox\_"
-datePublished: '2016-01-17T02:53:29.265Z'
-dateModified: '2016-01-17T02:53:28.951Z'
+datePublished: '2016-01-17T02:53:28.951Z'
+dateModified: '2016-01-17T02:53:28.619Z'
 author:
   - name: charstarleneTV
     url: 'https://www.youtube.com/user/charstarleneTV'
