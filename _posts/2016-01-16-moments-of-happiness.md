@@ -17,7 +17,7 @@ keywords:
   - yellowbrickcinema
   - healing
 description: ''
-datePublished: '2016-01-16T20:31:15.610Z'
+datePublished: '2016-01-16T20:31:15.619Z'
 dateModified: '2016-01-16T20:31:15.456Z'
 author:
   - name: calmdotcom
