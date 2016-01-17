@@ -16,9 +16,9 @@ keywords:
   - grind
   - tweet
   - wired
-description: 'These GIFs will make you question your daily grind http://wrd.cm/1RkIhfv Photo: @JulienDouvier pic.twitter.com/m7UiLxt1ru'
-datePublished: '2016-01-16T19:53:05.011Z'
-dateModified: '2016-01-16T19:51:54.698Z'
+description: Twitter
+datePublished: '2016-01-16T20:01:11.576Z'
+dateModified: '2016-01-16T20:01:10.468Z'
 author:
   - name: wiredphoto
     url: 'http://twitter.com/wiredphoto'
@@ -28,26 +28,24 @@ author:
       height: 73
 related: []
 app_links: []
-title: ''
+title: Repost
+sourcePath: _posts/2016-01-16-these-gifs-will-make-you-question-your-daily-grind-httpwr.md
+published: true
 authors: []
 publisher:
   name: Twitter
   domain: twitter.com
   url: 'http://twitter.com'
   favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-sourcePath: _posts/2016-01-16-these-gifs-will-make-you-question-your-daily-grind-httpwr.md
-published: true
 _type: Comment
 _context: 'http://schema.org'
 
 ---
-> These GIFs will make you question your daily grind http://wrd.cm/1RkIhfv Photo: @JulienDouvier pic.twitter.com/m7UiLxt1ru
+Follow my  Tweets ([@skylinelady][0])
 
-> > These GIFs will make you question your daily grind --- WIRED Photo (@WIREDPhoto) [19\. Oktober 2015][0]
-> 
-> Follow my  Tweets ([@skylinelady][1])
+> These GIFs will make you question your daily grind --- WIRED Photo (@WIREDPhoto) [19\. Oktober 2015][1]
 
 
 
-[0]: https://twitter.com/WIREDPhoto/status/656207312584069124
-[1]: https://twitter.com/skylinelady
+[0]: https://twitter.com/skylinelady
+[1]: https://twitter.com/WIREDPhoto/status/656207312584069124
