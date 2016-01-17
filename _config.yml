@@ -1,7 +1,7 @@
 name: Skylinelady
 favicon: null
 layout_spectrum: 0.46004
-typography_spectrum: 0.60949
+typography_spectrum: 1
 collections:
   - index:
       path: /
