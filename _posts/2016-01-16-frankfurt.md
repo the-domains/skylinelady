@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: TravelEurope
-datePublished: '2016-01-16T21:30:05.951Z'
-dateModified: '2016-01-16T21:30:05.738Z'
+datePublished: '2016-01-17T14:42:42.325Z'
+dateModified: '2016-01-17T14:42:37.239Z'
 title: Travel Europe
 author: []
 sourcePath: _posts/2016-01-16-frankfurt.md
@@ -29,9 +29,10 @@ _type: WebPage
 ## Frankfurt
 
 Find my tips on [Foursquare][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8470799b-15b0-4f88-99ab-1601d7c91435.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6b78fde-3999-4a94-bef8-dc632c3464c1.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b380f66-1793-42b5-9ed7-4f8395a01062.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fe955f6-c189-4e8c-aec7-05159f9d2f3a.jpg)
+
+This site is under construction at the moment - more coming soon.
+![What a fabulous view](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c53f8b387c9959fb55c7ef415779f9f40b9a8699.jpg)
+![Call this a great architecture of an underground station](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3db4a14dcee044f10a3e8d46164c01c81b1126ce.jpg)
+![Look at this beautiful skyline](https://s3-us-west-2.amazonaws.com/the-grid-img/p/43ce6a22e4b95db2c8da7a6a469d7ae43a2f4104.jpg)
 
 [0]: https://de.foursquare.com/skylinelady/list/fra
