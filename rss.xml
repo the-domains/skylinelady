@@ -4,14 +4,35 @@
         <description><![CDATA[Skylinelady Travel & Lifestyle]]></description>
         <link>https://thegrid.ai/skylinelady/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 20:32:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2016 20:54:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/skylinelady/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lifestyle]]></title>
+            <description><![CDATA[<article><h1>Lifestyle</h1><p>Manchmal tut ein Digitaler Detox einfach gut, da könnt ihr sagen was ihr wollt. Momente in denen man sein Mobiltelefon vergisst kommen vor. Viele haben das Selbstexperiment gemacht und siehe da, nach anfänglicher Trauer, dem Gefühl der Abgeschiedenheit kommt doch die Erleichterung. Schlagartig erleben wir Dinge und sind letztlich zufrieden auch mal nicht erreichbar zu sein und  einfach nur den Moment zu erleben – im Hier und Jetzt.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9a936ef7a9c48c2fe05647e73955965a17f7eca.jpg"></article>]]></description>
+            <link>https://thegrid.ai/skylinelady/lifestyle/index.html</link>
+            <guid isPermaLink="false">9f3c689d-d38f-4999-96c7-52ee795f7600</guid>
+            <pubDate>Sat, 16 Jan 2016 20:52:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://45.media.tumblr.com/08230462836396b504b2ca98f5f22fca/tumblr_nq9lwte4QL1rx4e71o1_500.gif">]]></description>
+            <link>https://thegrid.ai/skylinelady/10845aa1-58e0-453e-8b83-515fb212cfa4/index.html</link>
+            <guid isPermaLink="false">10845aa1-58e0-453e-8b83-515fb212cfa4</guid>
+            <pubDate>Sat, 16 Jan 2016 20:51:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://big.assets.huffingtonpost.com/pushupcopierwait1.gif">]]></description>
+            <link>https://thegrid.ai/skylinelady/c49fb9b4-eff7-428a-92b1-f2fcafec4008/index.html</link>
+            <guid isPermaLink="false">c49fb9b4-eff7-428a-92b1-f2fcafec4008</guid>
+            <pubDate>Sat, 16 Jan 2016 20:44:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Moments of happiness]]></title>
             <description><![CDATA[<article><h1>Moments of happiness</h1><p>Meditation is scientifically proven to lower stress, increase happiness and much more. Learn today with our free 7 Days of Calm program.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6216a0e1eda306d1d4e160ade551c8c9489d81dd.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=wni_nsyGAsw&amp;feature=youtu.be</link>
             <guid isPermaLink="false">98c16c24-a329-4252-b35f-fab1d4a29d75</guid>
-            <pubDate>Sat, 16 Jan 2016 20:31:15 GMT</pubDate>
+            <pubDate>Sat, 16 Jan 2016 20:31:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Celebration]]></title>
@@ -54,27 +75,6 @@
             <link>https://www.youtube.com/watch?v=ahCMPwMgZe0</link>
             <guid isPermaLink="false">dd444b02-e519-44d1-91dc-d5370c2363b8</guid>
             <pubDate>Sat, 16 Jan 2016 20:25:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About Me]]></title>
-            <description><![CDATA[<article><h1>About Me</h1><h2>Meanwhile you can follow me #skylinelady</h2><p>There is still a lot to discover in this world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/72e86dda101108a8dc77acb7b9a9dbcfb4953865.jpg"></article>]]></description>
-            <link>https://thegrid.ai/skylinelady/about-me/index.html</link>
-            <guid isPermaLink="false">ff5bc2ce-12da-49d0-a21e-fe15f1cd1bd4</guid>
-            <pubDate>Sat, 16 Jan 2016 19:50:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Grid AI]]></title>
-            <description><![CDATA[<article><h1>The Grid AI</h1><p>This is not another do-it-yourself website builder. The Grid harnesses the power of artificial intelligence to take everything you throw at it - videos, images, text, urls and more - and automatically shape them into a custom website unique to you. As your needs grow, it evolves with you, effortlessly adapting to your needs.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d76d42d1-6924-4088-9473-2f3385ad05b0.png"></article>]]></description>
-            <link>https://thegrid.io/</link>
-            <guid isPermaLink="false">c1ae799e-b34c-4096-983e-537558304e0e</guid>
-            <pubDate>Sat, 16 Jan 2016 18:43:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Repost]]></title>
-            <description><![CDATA[<article><h1>Repost</h1><p>Twitter </p></article>]]></description>
-            <link>https://twitter.com/skylinelady?lang=de</link>
-            <guid isPermaLink="false">68ebe996-4b0c-4ad6-a84a-bf5287ab9847</guid>
-            <pubDate>Sat, 16 Jan 2016 19:35:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
