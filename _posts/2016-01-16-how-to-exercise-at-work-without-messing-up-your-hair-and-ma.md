@@ -17,7 +17,7 @@ keywords:
   - pushups
   - post
 description: "You do have enough time to exercise, really. Especially if you make moving more a priority throughout the day, even if that's a work day. Before you get all defensive, hear us out: You don't need to spend your lunchbreak at the gym, you don't need to be away from your desk for an entire hour, you don't even need to shower, fix your hair or touch up your makeup afterword."
-datePublished: '2016-01-16T21:07:30.622Z'
+datePublished: '2016-01-16T21:07:30.668Z'
 dateModified: '2016-01-16T21:07:30.355Z'
 author:
   - name: Sarah Klein
