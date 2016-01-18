@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Unbelievable my first blog ist LIVE
-datePublished: '2016-01-18T11:36:54.720Z'
-dateModified: '2016-01-18T11:36:54.502Z'
+datePublished: '2016-01-18T14:08:15.804Z'
+dateModified: '2016-01-18T14:08:13.612Z'
 author: []
 title: "Let's celebrate"
 sourcePath: _posts/2016-01-16-celebration.md
@@ -27,5 +27,7 @@ _type: Article
 
 # Let's celebrate
 
-**I am a digital native.** I love the Internet and its endless possibilities. If I look for a recipe or my next trip preparatory, the Internet is my home. I would call myself a heavy user of Instagram, I check in regularly on Foursquare, collect inspiration boards on Pinterest and Tweet now and then.
+**Yes it's true I am a digital native. **I love the Internet and its endless possibilities. If I look for a recipe or my next trip preparatory, the Internet is my home. I would call myself a heavy user of Instagram, I check-in regularly on Foursquare, collect inspiration boards on Pinterest, Tweet and Snap now and then.
 ![Know this feeling?](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba1b7727b53791e22760928e74095795699d8b58.gif)
+
+**Awesome my blog is on!**
