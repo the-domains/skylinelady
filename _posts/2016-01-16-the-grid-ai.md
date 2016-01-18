@@ -17,8 +17,8 @@ keywords:
   - automatically
   - layout
 description: 'This is not another do-it-yourself website builder. The Grid harnesses the power of artificial intelligence to take everything you throw at it - videos, images, text, urls and more - and automatically shape them into a custom website unique to you. As your needs grow, it evolves with you, effortlessly adapting to your needs.'
-datePublished: '2016-01-17T22:53:29.279Z'
-dateModified: '2016-01-17T22:53:26.352Z'
+datePublished: '2016-01-18T11:01:09.059Z'
+dateModified: '2016-01-18T11:01:07.187Z'
 author: []
 related: []
 app_links: []
@@ -39,4 +39,5 @@ _type: MediaObject
     
     # The Grid AI
 
-This site was created with Artificial Intelligence powered by the Grid. ![This is not another do-it-yourself website builder. The Grid harnesses the power of artificial intelligence to take everything you throw at it - videos, images, text, urls and more - and automatically shape them into a custom website unique to you. As your needs grow, it evolves with you, effortlessly adapting to your needs.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d76d42d1-6924-4088-9473-2f3385ad05b0.png)
+This site was created with Artificial Intelligence powered by the Grid. I am proud to be a Founding Member.
+![This is not another do-it-yourself website builder. The Grid harnesses the power of artificial intelligence to take everything you throw at it - videos, images, text, urls and more - and automatically shape them into a custom website unique to you. As your needs grow, it evolves with you, effortlessly adapting to your needs.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d76d42d1-6924-4088-9473-2f3385ad05b0.png)
