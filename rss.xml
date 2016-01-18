@@ -4,11 +4,18 @@
         <description><![CDATA[Travel & Lifestyle]]></description>
         <link>http://skylinelady.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 13:59:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 14:08:31 GMT</lastBuildDate>
         <atom:link href="http://skylinelady.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Let's celebrate]]></title>
+            <description><![CDATA[<article><h1>Let's celebrate</h1><p>Yes it's true I am a digital native. I love the Internet and its endless possibilities. If I look for a recipe or my next trip preparatory, the Internet is my home. I would call myself a heavy user of Instagram, I check-in regularly on Foursquare, collect inspiration boards on Pinterest, Tweet and Snap now and then.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e9cea8b8d0ab5d5c0a03e1895467769125e4b183.gif"></article>]]></description>
+            <link>http://skylinelady.com/lets-celebrate/index.html</link>
+            <guid isPermaLink="false">6c87f45f-7be3-46fb-b3d6-76df96500363</guid>
+            <pubDate>Mon, 18 Jan 2016 14:08:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Snapchat]]></title>
-            <description><![CDATA[<article><h1>Snapchat</h1><p>So many great apps are available out there. Recently one of my favorite apps. Let's social connect.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0dc33ce84e49d7ea9e6896e246bd63a78a12bea7.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Snapchat</h1><p>So many great apps are available out there. Recently one of my favorite apps. Let's social connect.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1cdf71f14974db2affb1b62f7db9479d227fc9f2.jpg"></article>]]></description>
             <link>https://skylinelady.com/</link>
             <guid isPermaLink="false">dbc4b648-5492-4b1d-b302-13e9b4589f0f</guid>
             <pubDate>Mon, 18 Jan 2016 13:58:52 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://de.foursquare.com/skylinelady?all=lists</link>
             <guid isPermaLink="false">4c66e050-fe13-4f6b-b272-f563a7700092</guid>
             <pubDate>Mon, 18 Jan 2016 13:13:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Repost]]></title>
-            <description><![CDATA[<article><h1>Repost</h1><p>Everyone has a routine. Wake up, get dressed, grab a coffee, go to work, go home, sleep. The next day? Do it all again. When filmmaker and photographer Julien Douvier realized he'd been doing the same thing every morning for three years, did something about it. He made GIFs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e16b1127297a91a8462fcf7f3eed5b6221432563.jpg"></article>]]></description>
-            <link>http://skylinelady.com/repost/index.html</link>
-            <guid isPermaLink="false">d6028857-0163-4f51-8a6d-209f5c0b4d8e</guid>
-            <pubDate>Mon, 18 Jan 2016 13:08:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
