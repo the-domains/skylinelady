@@ -16,9 +16,9 @@ keywords:
   - production
   - diesel
   - http
-description: ''
-datePublished: '2016-01-16T15:54:59.341Z'
-dateModified: '2016-01-16T15:54:59.147Z'
+description: Lifestyle
+datePublished: '2016-01-18T13:18:14.985Z'
+dateModified: '2016-01-18T13:18:12.643Z'
 author:
   - name: i-D
     url: 'https://www.youtube.com/user/idmagazineonline'
