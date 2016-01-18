@@ -4,14 +4,21 @@
         <description><![CDATA[Travel & Lifestyle]]></description>
         <link>http://skylinelady.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 17:26:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 17:28:11 GMT</lastBuildDate>
         <atom:link href="http://skylinelady.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Grid AI]]></title>
+            <description><![CDATA[<article><h1>The Grid AI</h1><p>This site was created with Artificial Intelligence powered by the Grid. More than a year I have been waiting, and then came the long-awaited access link and I could start right away. But the wait was worth it. I am proud to be a Founding Member.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e403e87655a01b2caff513145d861447a9ae106.png"></article>]]></description>
+            <link>https://thegrid.io/</link>
+            <guid isPermaLink="false">c1ae799e-b34c-4096-983e-537558304e0e</guid>
+            <pubDate>Mon, 18 Jan 2016 17:27:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hello!]]></title>
             <description><![CDATA[<article><h1>Hello!</h1><p>Sky GIF</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b6582b346913a1aed79442edf0dd777f98058f8b.gif"></article>]]></description>
             <link>http://skylinelady.com/hello/index.html</link>
             <guid isPermaLink="false">606bb069-f9d1-4134-8f38-ba40128efbf7</guid>
-            <pubDate>Mon, 18 Jan 2016 17:25:02 GMT</pubDate>
+            <pubDate>Mon, 18 Jan 2016 17:28:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Repost]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=wni_nsyGAsw&amp;feature=youtu.be</link>
             <guid isPermaLink="false">98c16c24-a329-4252-b35f-fab1d4a29d75</guid>
             <pubDate>Mon, 18 Jan 2016 17:25:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dancespiration]]></title>
-            <description><![CDATA[<article><h1>Dancespiration</h1><p>Shot on the streets and rooftops of sunny LA, our A-Z of Dance shows you how to set hearts alight and clubs on fire. In a very special project for i-D and Diesel, director Jacob Sutton has captured the world's hottest dancers walking in the air in their Jogg Jeans and cut-offs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3ed2ac86cc3b72dc0152ed3e02104beceaadc85.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=UFZxK8edZWA&amp;sns=tw</link>
-            <guid isPermaLink="false">cdba834d-04e2-4c69-a045-3c9c84d95b17</guid>
-            <pubDate>Mon, 18 Jan 2016 14:42:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
