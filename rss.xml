@@ -4,18 +4,25 @@
         <description><![CDATA[Travel & Lifestyle]]></description>
         <link>http://skylinelady.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 20:44:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 20:47:25 GMT</lastBuildDate>
         <atom:link href="http://skylinelady.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Me]]></title>
-            <description><![CDATA[<article><h1>About Me</h1><h2>Meanwhile you can follow me #skylinelady</h2><p>I post and share English and German contributions - almost bilingual.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d7499c0a45e89fa62db16d4fb8809871b7176f40.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>About Me</h1><h2>Meanwhile you can follow me #skylinelady</h2><p>I post and share English and German contributions - almost bilingual.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c3d6c0a3a99f1f9ea7dc8785cf1f2e4be808af0.jpg"></article>]]></description>
             <link>http://skylinelady.com/about-me/index.html</link>
             <guid isPermaLink="false">ff5bc2ce-12da-49d0-a21e-fe15f1cd1bd4</guid>
             <pubDate>Mon, 18 Jan 2016 17:29:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Sparklers]]></title>
+            <description><![CDATA[<article><h1>Sparklers</h1><p>Love this little hand-held firework </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f6b3e79067fb32f7480f6e5c4c831018fed846e.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=ahCMPwMgZe0</link>
+            <guid isPermaLink="false">dd444b02-e519-44d1-91dc-d5370c2363b8</guid>
+            <pubDate>Mon, 18 Jan 2016 20:47:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tumblr]]></title>
-            <description><![CDATA[<article><h1>Tumblr</h1><p>Guess what? Yes, I have a Tumblr Page. These lovely pages are great to Pause for a moment.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee8cd46709566b5a17453cfe270a5e4cd22c7c20.gif"></article>]]></description>
+            <description><![CDATA[<article><h1>Tumblr</h1><p>Guess what? Yes, I have a Tumblr Page. These lovely pages are great to Pause for a moment.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/689bc7665f007f56a41cc82713f59e572a95774a.gif"></article>]]></description>
             <link>https://www.tumblr.com/blog/skylinelady</link>
             <guid isPermaLink="false">10845aa1-58e0-453e-8b83-515fb212cfa4</guid>
             <pubDate>Mon, 18 Jan 2016 20:44:24 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://skylinelady.com/lets-celebrate/index.html</link>
             <guid isPermaLink="false">6c87f45f-7be3-46fb-b3d6-76df96500363</guid>
             <pubDate>Mon, 18 Jan 2016 14:10:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Snapchat]]></title>
-            <description><![CDATA[<article><h1>Snapchat</h1><p>So many great apps are available out there. Recently one of my favorite apps. Let's social connect.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/adce9277560f906144e5aa1b5b027be49c54dbc6.jpg"></article>]]></description>
-            <link>https://skylinelady.com/</link>
-            <guid isPermaLink="false">dbc4b648-5492-4b1d-b302-13e9b4589f0f</guid>
-            <pubDate>Mon, 18 Jan 2016 13:58:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
