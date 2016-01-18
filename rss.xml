@@ -4,21 +4,14 @@
         <description><![CDATA[Travel & Lifestyle]]></description>
         <link>http://skylinelady.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 14:44:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 14:44:21 GMT</lastBuildDate>
         <atom:link href="http://skylinelady.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Repost]]></title>
-            <description><![CDATA[<article><h1>Repost</h1><p>Follow my  Tweets (@skylinelady)</p></article>]]></description>
-            <link>https://twitter.com/skylinelady?lang=de</link>
-            <guid isPermaLink="false">68ebe996-4b0c-4ad6-a84a-bf5287ab9847</guid>
-            <pubDate>Mon, 18 Jan 2016 14:43:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Repost]]></title>
-            <description><![CDATA[<article><h1>Repost</h1><p>Everyone has a routine. Wake up, get dressed, grab a coffee, go to work, go home, sleep. The next day? Do it all again. When filmmaker and photographer Julien Douvier realized he'd been doing the same thing every morning for three years, did something about it. He made GIFs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8a4fd6d6c72b475ea72bb41d081c00e00bd2aba.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Repost</h1><p>Everyone has a routine. Wake up, get dressed, grab a coffee, go to work, go home, sleep. The next day? Do it all again. When filmmaker and photographer Julien Douvier realized he'd been doing the same thing every morning for three years, did something about it. He made GIFs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e16b1127297a91a8462fcf7f3eed5b6221432563.jpg"></article>]]></description>
             <link>http://skylinelady.com/repost/index.html</link>
             <guid isPermaLink="false">d6028857-0163-4f51-8a6d-209f5c0b4d8e</guid>
-            <pubDate>Mon, 18 Jan 2016 14:42:56 GMT</pubDate>
+            <pubDate>Mon, 18 Jan 2016 14:42:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pictures on sale]]></title>
@@ -75,6 +68,13 @@
             <link>https://www.youtube.com/watch?v=GooxSsUWiNM</link>
             <guid isPermaLink="false">dd9dc671-06f6-4b25-ab65-cd9a2e69b51f</guid>
             <pubDate>Mon, 18 Jan 2016 13:17:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Follow my G+Page]]></title>
+            <description><![CDATA[<article><h1>Follow my G+Page</h1><p>Follow me on Google</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90947913cd32beb23ffba99f11a5352c8d37eccf.gif"></article>]]></description>
+            <link>https://plus.google.com/u/0/111241938616127816510/posts</link>
+            <guid isPermaLink="false">29d6c1d7-da3e-44c1-b645-dbf3609ad964</guid>
+            <pubDate>Mon, 18 Jan 2016 13:15:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
