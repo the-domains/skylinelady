@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: TravelEurope
-datePublished: '2016-01-17T14:42:44.682Z'
-dateModified: '2016-01-17T14:42:44.180Z'
+datePublished: '2016-01-18T13:59:56.782Z'
+dateModified: '2016-01-18T13:59:55.276Z'
 title: Travel Europe
 author: []
 sourcePath: _posts/2016-01-16-frankfurt.md
@@ -22,7 +22,7 @@ url: frankfurt/index.html
 _type: WebPage
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/29bb6ba665d3a7c8d8c827954ea19914f0c5c4ac.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/493300a46a31c697487456f36ca1ccabbed17ef4.jpg)
 
 # Travel Europe
 
