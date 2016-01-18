@@ -1,7 +1,8 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'https://thegrid.io/'
 inLanguage: en
 starred: false
 keywords:
@@ -16,8 +17,8 @@ keywords:
   - automatically
   - layout
 description: 'This is not another do-it-yourself website builder. The Grid harnesses the power of artificial intelligence to take everything you throw at it - videos, images, text, urls and more - and automatically shape them into a custom website unique to you. As your needs grow, it evolves with you, effortlessly adapting to your needs.'
-datePublished: '2016-01-18T13:08:51.550Z'
-dateModified: '2016-01-18T13:08:51.203Z'
+datePublished: '2016-01-18T12:40:54.948Z'
+dateModified: '2016-01-18T12:40:54.635Z'
 author: []
 related: []
 app_links: []
@@ -30,7 +31,6 @@ publisher:
   domain: thegrid.io
   url: 'https://thegrid.io'
   favicon: 'https://passport.thegrid.io/favicon.ico'
-url: the-grid-ai/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
@@ -39,5 +39,5 @@ _type: MediaObject
     
     # The Grid AI
 
-This site was created with Artificial Intelligence powered by the Grid. More than a year I have been waiting, and then came the long-awaited access link and I could start right away. But the wait was worth it. I am proud to be a Founding Member.
+This site was created with Artificial Intelligence powered by the Grid. I am proud to be a Founding Member.
 ![This is not another do-it-yourself website builder. The Grid harnesses the power of artificial intelligence to take everything you throw at it - videos, images, text, urls and more - and automatically shape them into a custom website unique to you. As your needs grow, it evolves with you, effortlessly adapting to your needs.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bdc90399fafb6757d596c95c564dec067c33daac.png)
