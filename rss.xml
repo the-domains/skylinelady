@@ -4,11 +4,18 @@
         <description><![CDATA[Travel & Lifestyle]]></description>
         <link>http://skylinelady.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 08:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 10:11:08 GMT</lastBuildDate>
         <atom:link href="http://skylinelady.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[@skylinelady]]></title>
+            <description><![CDATA[<article><h1>@skylinelady</h1><p>All my pictures are incidentally on sale for commercial or editorial contributions. Check out my photographer's gallery on Twenty20</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7756c5eb335b95394c094aa5a0c3a5abadd84d7.jpg"></article>]]></description>
+            <link>https://www.twenty20.com/skylinelady/photos</link>
+            <guid isPermaLink="false">516c0564-11da-47d5-8f64-e4c253ef465d</guid>
+            <pubDate>Mon, 18 Jan 2016 10:11:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Than it began in 2015]]></title>
-            <description><![CDATA[<article><h1>Than it began in 2015</h1><p>In January 2015 I started documenting my journeys. And a year later, in January 2016 I have launched my blog. Everything opens up incredible. And that is pretty awesome - so you can imagine how grateful I am.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fd3406a013fbf1e173dafa6fd9c8b5c7fffd5d32.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Than it began in 2015</h1><p>In January 2015 I started documenting my journeys. And a year later, in January 2016 I have launched my blog. Everything opens up incredible. And that is pretty awesome - so you can imagine how grateful I am.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/26b2455e0d3f02c22889bf211aab3a6b654cfb46.jpg"></article>]]></description>
             <link>http://skylinelady.com/than-it-began-in-2015/index.html</link>
             <guid isPermaLink="false">4104ac9f-56b8-4632-b750-37ce45f95cfa</guid>
             <pubDate>Mon, 18 Jan 2016 08:20:19 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://skylinelady.com/</link>
             <guid isPermaLink="false">dbc4b648-5492-4b1d-b302-13e9b4589f0f</guid>
             <pubDate>Sun, 17 Jan 2016 17:19:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[See my recommendations lists on Foursquare]]></title>
-            <description><![CDATA[<article><h1>See my recommendations lists on Foursquare</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ed687fb0f6d09da25eb1bad9455da8e23c6c253.gif"></article>]]></description>
-            <link>https://de.foursquare.com/skylinelady?all=lists</link>
-            <guid isPermaLink="false">4c66e050-fe13-4f6b-b272-f563a7700092</guid>
-            <pubDate>Sun, 17 Jan 2016 16:24:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
