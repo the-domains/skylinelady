@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Social/YouTube
-datePublished: '2016-01-18T13:15:00.258Z'
-dateModified: '2016-01-18T13:14:59.541Z'
+datePublished: '2016-01-18T13:15:00.533Z'
+dateModified: '2016-01-18T13:15:00.141Z'
 author:
   - name: Caroline Kapfinger
     url: 'https://www.youtube.com/user/skylineladyz'
