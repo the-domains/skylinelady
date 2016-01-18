@@ -4,14 +4,21 @@
         <description><![CDATA[Travel & Lifestyle]]></description>
         <link>http://skylinelady.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 20:39:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 20:44:27 GMT</lastBuildDate>
         <atom:link href="http://skylinelady.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Me]]></title>
-            <description><![CDATA[<article><h1>About Me</h1><h2>Meanwhile you can follow me #skylinelady</h2><p>I post and share English and German contributions - almost bilingual.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8d16a3a59d15c78599edad3c8ed874ac94f2ffe.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>About Me</h1><h2>Meanwhile you can follow me #skylinelady</h2><p>I post and share English and German contributions - almost bilingual.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/93bedd31138f66d936aa457054d34236ea28fc00.jpg"></article>]]></description>
             <link>http://skylinelady.com/about-me/index.html</link>
             <guid isPermaLink="false">ff5bc2ce-12da-49d0-a21e-fe15f1cd1bd4</guid>
             <pubDate>Mon, 18 Jan 2016 17:29:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tumblr]]></title>
+            <description><![CDATA[<article><h1>Tumblr</h1><p>Guess what? Yes, I have a Tumblr Page. These lovely pages are great to Pause for a moment.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee8cd46709566b5a17453cfe270a5e4cd22c7c20.gif"></article>]]></description>
+            <link>https://www.tumblr.com/blog/skylinelady</link>
+            <guid isPermaLink="false">10845aa1-58e0-453e-8b83-515fb212cfa4</guid>
+            <pubDate>Mon, 18 Jan 2016 20:44:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Grid AI]]></title>
@@ -68,13 +75,6 @@
             <link>https://skylinelady.com/</link>
             <guid isPermaLink="false">dbc4b648-5492-4b1d-b302-13e9b4589f0f</guid>
             <pubDate>Mon, 18 Jan 2016 13:58:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Or follow my boards on Pinterest]]></title>
-            <description><![CDATA[<article><h1>Or follow my boards on Pinterest</h1><p>Here are my creative Inspirations sorted in boards</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e5f8afd3f11f4eb123344b9e1511cdb632a9303.gif"></article>]]></description>
-            <link>https://de.pinterest.com/skylinelady/</link>
-            <guid isPermaLink="false">d479f5da-82eb-42c8-8ba6-3ed040fe83d5</guid>
-            <pubDate>Mon, 18 Jan 2016 20:39:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
