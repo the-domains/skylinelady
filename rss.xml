@@ -4,14 +4,21 @@
         <description><![CDATA[Travel & Lifestyle]]></description>
         <link>http://skylinelady.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 13:21:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 13:59:19 GMT</lastBuildDate>
         <atom:link href="http://skylinelady.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Or follow my boards on Pinterest]]></title>
+            <description><![CDATA[<article><h1>Or follow my boards on Pinterest</h1><p>Here are my creative Inspirations sorted in boards</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5492bd3e3e177d456222a06bc3bb0e26fbb6d4ab.gif"></article>]]></description>
+            <link>https://de.pinterest.com/skylinelady/</link>
+            <guid isPermaLink="false">d479f5da-82eb-42c8-8ba6-3ed040fe83d5</guid>
+            <pubDate>Mon, 18 Jan 2016 13:58:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Moments of happiness]]></title>
             <description><![CDATA[<article><h1>Moments of happiness</h1><p>Meditation is scientifically proven to lower stress, increase happiness and much more. Learn today with the free 7 Days of Calm program.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6216a0e1eda306d1d4e160ade551c8c9489d81dd.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=wni_nsyGAsw&amp;feature=youtu.be</link>
             <guid isPermaLink="false">98c16c24-a329-4252-b35f-fab1d4a29d75</guid>
-            <pubDate>Mon, 18 Jan 2016 13:18:39 GMT</pubDate>
+            <pubDate>Mon, 18 Jan 2016 13:18:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dancespiration]]></title>
@@ -68,13 +75,6 @@
             <link>http://skylinelady.com/the-grid-ai/index.html</link>
             <guid isPermaLink="false">c1ae799e-b34c-4096-983e-537558304e0e</guid>
             <pubDate>Mon, 18 Jan 2016 13:08:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Snapchat]]></title>
-            <description><![CDATA[<article><h1>Snapchat</h1><p>So many great apps are available out there. Recently one of my favorite apps. Let's social connect.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/adce9277560f906144e5aa1b5b027be49c54dbc6.jpg"></article>]]></description>
-            <link>https://skylinelady.com/</link>
-            <guid isPermaLink="false">dbc4b648-5492-4b1d-b302-13e9b4589f0f</guid>
-            <pubDate>Mon, 18 Jan 2016 13:14:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
