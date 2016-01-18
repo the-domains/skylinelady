@@ -7,7 +7,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Social/YouTube
-datePublished: '2016-01-18T21:20:20.210Z'
+datePublished: '2016-01-18T21:20:20.231Z'
 dateModified: '2016-01-18T21:20:17.203Z'
 author:
   - name: Caroline Kapfinger
