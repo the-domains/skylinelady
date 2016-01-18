@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://plus.google.com/u/0/111241938616127816510/posts'
 inLanguage: null
 starred: false
 keywords: []
-description: Google+
-datePublished: '2016-01-16T19:56:20.238Z'
-dateModified: '2016-01-16T19:56:03.643Z'
+description: Social/Google+
+datePublished: '2016-01-18T13:15:42.592Z'
+dateModified: '2016-01-18T13:15:38.910Z'
 author:
   - avatar:
       src: 'https://lh3.googleusercontent.com/-YyLeyOwMBsQ/AAAAAAAAAAI/AAAAAAAAAAA/xkFtu3rL7HU/s46-c-k-no/photo.jpg'
