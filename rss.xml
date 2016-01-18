@@ -4,18 +4,11 @@
         <description><![CDATA[Travel & Lifestyle]]></description>
         <link>http://skylinelady.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 11:46:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 11:46:07 GMT</lastBuildDate>
         <atom:link href="http://skylinelady.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Let's travel the world]]></title>
-            <description><![CDATA[<article><h1>Let's travel the world</h1><p>Guess what is my next destination?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6efe6953b3b70f582a81f336ff02ae5b/noop.gif?input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F4c12fb6c2d1aff278ec1e30d1abd1f4a2c3584d0.gif"></article>]]></description>
-            <link>https://www.tumblr.com/blog/skylinelady</link>
-            <guid isPermaLink="false">9e1ed3c5-85c5-4364-be17-298141e6560c</guid>
-            <pubDate>Mon, 18 Jan 2016 11:37:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[tsū]]></title>
-            <description><![CDATA[<article><h1>tsū</h1><p>Have you ever heard about tsū? Me neither, that's why I will test this not new but in some way other social network. Meet me on tsū</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5abdf9bbe3b7e40f5a14a3ada959c8d743c2cd79.png"></article>]]></description>
+            <description><![CDATA[<article><h1>tsū</h1><p>Have you ever heard about tsū? Me neither, that's why I will test this not new but in some way other social network. Meet me on tsū</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d4ce7d981a4b72c3a7ad9f132c9b3e6b4cc47cd.png"></article>]]></description>
             <link>http://www.tsu.co/skylinelady</link>
             <guid isPermaLink="false">f0337f19-16c3-4dc4-8351-6d4ebc2358dd</guid>
             <pubDate>Mon, 18 Jan 2016 11:37:25 GMT</pubDate>
@@ -75,6 +68,13 @@
             <link>http://skylinelady.com/hello/index.html</link>
             <guid isPermaLink="false">606bb069-f9d1-4134-8f38-ba40128efbf7</guid>
             <pubDate>Mon, 18 Jan 2016 11:34:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About Me]]></title>
+            <description><![CDATA[<article><h1>About Me</h1><h2>Meanwhile you can follow me #skylinelady</h2><p>I post here English and German contributions - almost bilingual.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b4d496e601982d8cf635da5ed5fa7a82a06648c.jpg"></article>]]></description>
+            <link>http://skylinelady.com/about-me/index.html</link>
+            <guid isPermaLink="false">ff5bc2ce-12da-49d0-a21e-fe15f1cd1bd4</guid>
+            <pubDate>Mon, 18 Jan 2016 11:33:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
