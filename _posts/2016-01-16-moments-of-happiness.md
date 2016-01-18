@@ -17,7 +17,7 @@ keywords:
   - yellowbrickcinema
   - healing
 description: Lifestyle
-datePublished: '2016-01-18T13:18:38.230Z'
+datePublished: '2016-01-18T13:18:38.265Z'
 dateModified: '2016-01-18T13:18:37.837Z'
 author:
   - name: calmdotcom
