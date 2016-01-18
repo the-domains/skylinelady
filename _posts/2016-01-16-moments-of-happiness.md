@@ -1,7 +1,8 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=wni_nsyGAsw&feature=youtu.be'
 inLanguage: en
 starred: false
 keywords:
@@ -16,8 +17,8 @@ keywords:
   - yellowbrickcinema
   - healing
 description: Lifestyle/Feature/Meditation
-datePublished: '2016-01-18T21:52:45.333Z'
-dateModified: '2016-01-18T21:52:38.860Z'
+datePublished: '2016-01-18T21:57:38.786Z'
+dateModified: '2016-01-18T21:57:32.061Z'
 author:
   - name: calmdotcom
     url: 'https://www.youtube.com/user/calmdotcom'
@@ -43,7 +44,6 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-url: moments-of-happiness/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
