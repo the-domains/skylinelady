@@ -4,8 +4,15 @@
         <description><![CDATA[Travel & Lifestyle]]></description>
         <link>http://skylinelady.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 14:43:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 14:43:39 GMT</lastBuildDate>
         <atom:link href="http://skylinelady.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Repost]]></title>
+            <description><![CDATA[<article><h1>Repost</h1><p>Everyone has a routine. Wake up, get dressed, grab a coffee, go to work, go home, sleep. The next day? Do it all again. When filmmaker and photographer Julien Douvier realized he'd been doing the same thing every morning for three years, did something about it. He made GIFs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fcbd5ca905cf87699331f18063bd549530a8f1ba.jpg"></article>]]></description>
+            <link>http://skylinelady.com/repost/index.html</link>
+            <guid isPermaLink="false">d6028857-0163-4f51-8a6d-209f5c0b4d8e</guid>
+            <pubDate>Mon, 18 Jan 2016 14:42:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pictures on sale]]></title>
             <description><![CDATA[<article><h1>Pictures on sale</h1><p>I offer you a few of my favorite pictures for commercial and editorial use. Check out my photographer's gallery on Twenty20</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab6f21ad340fc8738bf1cd32ca8d828ce88ba04c.png"></article>]]></description>
@@ -53,7 +60,7 @@
             <description><![CDATA[<article><h1>Dancespiration</h1><p>Shot on the streets and rooftops of sunny LA, our A-Z of Dance shows you how to set hearts alight and clubs on fire. In a very special project for i-D and Diesel, director Jacob Sutton has captured the world's hottest dancers walking in the air in their Jogg Jeans and cut-offs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3ed2ac86cc3b72dc0152ed3e02104beceaadc85.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=UFZxK8edZWA&amp;sns=tw</link>
             <guid isPermaLink="false">cdba834d-04e2-4c69-a045-3c9c84d95b17</guid>
-            <pubDate>Mon, 18 Jan 2016 14:42:23 GMT</pubDate>
+            <pubDate>Mon, 18 Jan 2016 14:42:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Soundspiration]]></title>
@@ -68,13 +75,6 @@
             <link>https://plus.google.com/u/0/111241938616127816510/posts</link>
             <guid isPermaLink="false">29d6c1d7-da3e-44c1-b645-dbf3609ad964</guid>
             <pubDate>Mon, 18 Jan 2016 13:15:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Follow my post on Instagram]]></title>
-            <description><![CDATA[<article><h1>Follow my post on Instagram</h1><p>Meet me on Instagram</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41c7c4a9e5616cd84165aaffb538b2e34661f9ad.gif"></article>]]></description>
-            <link>https://www.instagram.com/skylinelady/</link>
-            <guid isPermaLink="false">f22a4d5a-8914-4e1d-bf46-8fd101ac7a52</guid>
-            <pubDate>Mon, 18 Jan 2016 13:15:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
