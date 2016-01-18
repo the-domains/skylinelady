@@ -4,8 +4,15 @@
         <description><![CDATA[Travel & Lifestyle]]></description>
         <link>http://skylinelady.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 14:10:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 14:15:18 GMT</lastBuildDate>
         <atom:link href="http://skylinelady.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Meet me on tsū]]></title>
+            <description><![CDATA[<article><h1>Meet me on tsū</h1><p>Have you ever heard about tsū? Me neither, that's why I will test this not new but in some way other social network. You only get access to this network by invitation. Join me on tsū.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/94f86797b11fb870e31c6b56b312b149b6580a9c.png"></article>]]></description>
+            <link>http://www.tsu.co/skylinelady</link>
+            <guid isPermaLink="false">f0337f19-16c3-4dc4-8351-6d4ebc2358dd</guid>
+            <pubDate>Mon, 18 Jan 2016 14:15:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[It's Partytime]]></title>
             <description><![CDATA[<article><h1>It's Partytime</h1><p>Yes it's true I am a digital native. I love the Internet and its endless possibilities. If I look for a recipe or my next trip preparatory, the Internet is my home. I would call myself a heavy user of Instagram, I check-in regularly on Foursquare, collect inspiration boards on Pinterest, Tweet and Snap now and then.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e9cea8b8d0ab5d5c0a03e1895467769125e4b183.gif"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=ahCMPwMgZe0</link>
             <guid isPermaLink="false">dd444b02-e519-44d1-91dc-d5370c2363b8</guid>
             <pubDate>Mon, 18 Jan 2016 13:15:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[See my recommendations lists on Foursquare]]></title>
-            <description><![CDATA[<article><h1>See my recommendations lists on Foursquare</h1><p>Social/Foursquare</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/242fb860bab70aaa22c22e676e32c000f2529e24.gif"></article>]]></description>
-            <link>https://de.foursquare.com/skylinelady?all=lists</link>
-            <guid isPermaLink="false">4c66e050-fe13-4f6b-b272-f563a7700092</guid>
-            <pubDate>Mon, 18 Jan 2016 13:13:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
