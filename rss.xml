@@ -4,21 +4,14 @@
         <description><![CDATA[Travel & Lifestyle]]></description>
         <link>http://skylinelady.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 13:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 13:16:10 GMT</lastBuildDate>
         <atom:link href="http://skylinelady.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Follow my post on Instagram]]></title>
-            <description><![CDATA[<article><h1>Follow my post on Instagram</h1><p>Meet me on Instagram</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d3733ace4ab44d1c24465d5f06a22ba583b1b68.gif"></article>]]></description>
-            <link>https://www.instagram.com/skylinelady/</link>
-            <guid isPermaLink="false">f22a4d5a-8914-4e1d-bf46-8fd101ac7a52</guid>
-            <pubDate>Mon, 18 Jan 2016 13:15:22 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Sparklers]]></title>
             <description><![CDATA[<article><h1>Sparklers</h1><p>Love this little hand-held firework </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f6b3e79067fb32f7480f6e5c4c831018fed846e.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=ahCMPwMgZe0</link>
             <guid isPermaLink="false">dd444b02-e519-44d1-91dc-d5370c2363b8</guid>
-            <pubDate>Mon, 18 Jan 2016 13:15:00 GMT</pubDate>
+            <pubDate>Mon, 18 Jan 2016 13:14:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[See my recommendations lists on Foursquare]]></title>
@@ -75,6 +68,13 @@
             <link>https://www.tumblr.com/blog/skylinelady</link>
             <guid isPermaLink="false">9e1ed3c5-85c5-4364-be17-298141e6560c</guid>
             <pubDate>Mon, 18 Jan 2016 11:37:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meet me on tsū]]></title>
+            <description><![CDATA[<article><h1>Meet me on tsū</h1><p>Have you ever heard about tsū? Me neither, that's why I will test this not new but in some way other social network. Meet me on tsū</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b1c30abfeebebc37d84cd83fa2f71a5e724df30.png"></article>]]></description>
+            <link>http://www.tsu.co/skylinelady</link>
+            <guid isPermaLink="false">f0337f19-16c3-4dc4-8351-6d4ebc2358dd</guid>
+            <pubDate>Mon, 18 Jan 2016 13:14:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
