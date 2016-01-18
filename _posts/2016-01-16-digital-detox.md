@@ -15,9 +15,9 @@ keywords:
   - geronimo
   - smartphones
   - crawford
-description: "Digital Detox\_"
-datePublished: '2016-01-17T02:53:28.951Z'
-dateModified: '2016-01-17T02:53:28.619Z'
+description: ''
+datePublished: '2016-01-18T13:19:05.453Z'
+dateModified: '2016-01-18T13:19:03.314Z'
 author:
   - name: charstarleneTV
     url: 'https://www.youtube.com/user/charstarleneTV'
