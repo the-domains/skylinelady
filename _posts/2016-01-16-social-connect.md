@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://www.instagram.com/skylinelady/'
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-16T23:00:47.159Z'
-dateModified: '2016-01-16T23:00:44.844Z'
+description: Social/Instagram
+datePublished: '2016-01-18T13:15:22.198Z'
+dateModified: '2016-01-18T13:15:20.095Z'
 author: []
 related: []
 app_links:
