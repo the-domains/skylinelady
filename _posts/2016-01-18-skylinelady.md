@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Check out my photographer's gallery on Twenty20.com"
-datePublished: '2016-01-18T10:58:12.241Z'
-dateModified: '2016-01-18T10:58:11.592Z'
+datePublished: '2016-01-18T13:07:51.863Z'
+dateModified: '2016-01-18T13:07:49.498Z'
 author: []
 related: []
 app_links: []
@@ -27,7 +27,7 @@ _type: MediaObject
 ---
 # Pictures on sale
 
-I offer you a few of my favorite pictures for the commercial and editorial use. Check out my photographer's gallery on [Twenty20][0]
+I offer you a few of my favorite pictures for commercial and editorial use. Check out my photographer's gallery on [Twenty20][0]
 ![Check out my photographer's gallery on Twenty20.com](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58903335-3d92-41bc-bf18-359dba0d84f1.png)
 
 [0]: https://www.twenty20.com/skylinelady/photos
