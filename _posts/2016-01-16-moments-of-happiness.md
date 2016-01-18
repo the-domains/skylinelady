@@ -16,9 +16,9 @@ keywords:
   - sleep
   - yellowbrickcinema
   - healing
-description: Lifestyle
-datePublished: '2016-01-18T13:18:40.201Z'
-dateModified: '2016-01-18T13:18:39.586Z'
+description: Lifestyle/Feature/Meditation
+datePublished: '2016-01-18T14:42:01.420Z'
+dateModified: '2016-01-18T14:41:58.056Z'
 author:
   - name: calmdotcom
     url: 'https://www.youtube.com/user/calmdotcom'
