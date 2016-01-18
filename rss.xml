@@ -4,8 +4,15 @@
         <description><![CDATA[Travel & Lifestyle]]></description>
         <link>http://skylinelady.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 12:36:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 12:41:13 GMT</lastBuildDate>
         <atom:link href="http://skylinelady.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Grid AI]]></title>
+            <description><![CDATA[<article><h1>The Grid AI</h1><p>This site was created with Artificial Intelligence powered by the Grid. I am proud to be a Founding Member.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bdc90399fafb6757d596c95c564dec067c33daac.png"></article>]]></description>
+            <link>https://thegrid.io/</link>
+            <guid isPermaLink="false">c1ae799e-b34c-4096-983e-537558304e0e</guid>
+            <pubDate>Mon, 18 Jan 2016 12:40:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Snapchat]]></title>
             <description><![CDATA[<article><h1>Snapchat</h1><p>So many great apps are available out there. Recently one of my favorite apps. Let's social connect.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/adce9277560f906144e5aa1b5b027be49c54dbc6.jpg"></article>]]></description>
@@ -22,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[About Me]]></title>
-            <description><![CDATA[<article><h1>About Me</h1><h2>Meanwhile you can follow me #skylinelady</h2><p>I post and share English and German contributions - almost bilingual.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d7499c0a45e89fa62db16d4fb8809871b7176f40.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>About Me</h1><h2>Meanwhile you can follow me #skylinelady</h2><p>I post and share English and German contributions - almost bilingual.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/93bedd31138f66d936aa457054d34236ea28fc00.jpg"></article>]]></description>
             <link>http://skylinelady.com/about-me/index.html</link>
             <guid isPermaLink="false">ff5bc2ce-12da-49d0-a21e-fe15f1cd1bd4</guid>
             <pubDate>Mon, 18 Jan 2016 12:33:12 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.twenty20.com/skylinelady/photos</link>
             <guid isPermaLink="false">516c0564-11da-47d5-8f64-e4c253ef465d</guid>
             <pubDate>Mon, 18 Jan 2016 10:58:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Than it began in 2015]]></title>
-            <description><![CDATA[<article><h1>Than it began in 2015</h1><p>In January 2015 I started documenting my journeys. And a year later, in January 2016 I have launched my blog. Everything opens up incredible. And that is pretty awesome - so you can imagine how grateful I am.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/81263950fc0e67d00653a6296489ee71e4d9d24d.jpg"></article>]]></description>
-            <link>http://skylinelady.com/than-it-began-in-2015/index.html</link>
-            <guid isPermaLink="false">4104ac9f-56b8-4632-b750-37ce45f95cfa</guid>
-            <pubDate>Mon, 18 Jan 2016 12:08:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
