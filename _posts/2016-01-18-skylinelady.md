@@ -7,12 +7,12 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Check out my photographer's gallery on Twenty20.com"
-datePublished: '2016-01-18T10:26:43.746Z'
-dateModified: '2016-01-18T10:26:43.299Z'
+datePublished: '2016-01-18T10:27:24.555Z'
+dateModified: '2016-01-18T10:27:22.413Z'
 author: []
 related: []
 app_links: []
-title: Twenty20
+title: Pictures on sale
 sourcePath: _posts/2016-01-18-skylinelady.md
 published: true
 authors: []
@@ -25,6 +25,8 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+# Pictures on sale
+
 All my pictures are incidentally on sale for commercial or editorial contributions. Check out my photographer's gallery on [Twenty20][0]
 
 <article style=""><h1>Twenty20</h1><p>Check out my photographer's gallery on Twenty20.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7756c5eb335b95394c094aa5a0c3a5abadd84d7.jpg" /></article>
