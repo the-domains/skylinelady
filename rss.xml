@@ -4,15 +4,8 @@
         <description><![CDATA[Travel & Lifestyle]]></description>
         <link>http://skylinelady.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 12:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 12:18:07 GMT</lastBuildDate>
         <atom:link href="http://skylinelady.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Snapchat]]></title>
-            <description><![CDATA[<article><h1>Snapchat</h1><p>So many great apps are available out there. Recently one of my favorite apps. Let's social connect.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0dc33ce84e49d7ea9e6896e246bd63a78a12bea7.jpg"></article>]]></description>
-            <link>https://skylinelady.com/</link>
-            <guid isPermaLink="false">dbc4b648-5492-4b1d-b302-13e9b4589f0f</guid>
-            <pubDate>Mon, 18 Jan 2016 12:14:14 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Hello!]]></title>
             <description><![CDATA[<article><h1>Hello!</h1><p>Sky GIF</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b6582b346913a1aed79442edf0dd777f98058f8b.gif"></article>]]></description>
@@ -22,7 +15,7 @@
         </item>
         <item>
             <title><![CDATA[About Me]]></title>
-            <description><![CDATA[<article><h1>About Me</h1><h2>Meanwhile you can follow me #skylinelady</h2><p>I post and share English and German contributions - almost bilingual.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aeb6d4df0b80a7ff10c1755711e3f9f217ed5907.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>About Me</h1><h2>Meanwhile you can follow me #skylinelady</h2><p>I post and share English and German contributions - almost bilingual.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8c1e30b8fc20fb725be0443dda8cca0bdb6b58a.jpg"></article>]]></description>
             <link>http://skylinelady.com/about-me/index.html</link>
             <guid isPermaLink="false">ff5bc2ce-12da-49d0-a21e-fe15f1cd1bd4</guid>
             <pubDate>Mon, 18 Jan 2016 12:12:56 GMT</pubDate>
@@ -75,6 +68,13 @@
             <link>http://skylinelady.com/than-it-began-in-2015/index.html</link>
             <guid isPermaLink="false">4104ac9f-56b8-4632-b750-37ce45f95cfa</guid>
             <pubDate>Mon, 18 Jan 2016 12:08:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Soundspiration]]></title>
+            <description><![CDATA[<article><h1>Soundspiration</h1><p>Rhine river bank video w/ sound</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fec41494ad1f0fc5bb0bbcbe40fb8bbc988171c4.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=GooxSsUWiNM</link>
+            <guid isPermaLink="false">dd9dc671-06f6-4b25-ab65-cd9a2e69b51f</guid>
+            <pubDate>Mon, 18 Jan 2016 11:36:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
