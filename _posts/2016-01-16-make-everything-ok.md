@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-18T11:38:06.451Z'
-dateModified: '2016-01-18T11:38:03.692Z'
+datePublished: '2016-01-18T11:38:06.566Z'
+dateModified: '2016-01-18T11:38:06.373Z'
 author: []
 title: "Make\_everything OK"
 sourcePath: _posts/2016-01-16-make-everything-ok.md
