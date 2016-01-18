@@ -4,14 +4,21 @@
         <description><![CDATA[Travel & Lifestyle]]></description>
         <link>http://skylinelady.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 14:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 14:29:37 GMT</lastBuildDate>
         <atom:link href="http://skylinelady.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Pictures on sale]]></title>
+            <description><![CDATA[<article><h1>Pictures on sale</h1><p>I offer you a few of my favorite pictures for commercial and editorial use. Check out my photographer's gallery on Twenty20</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab6f21ad340fc8738bf1cd32ca8d828ce88ba04c.png"></article>]]></description>
+            <link>https://www.twenty20.com/skylinelady/photos</link>
+            <guid isPermaLink="false">516c0564-11da-47d5-8f64-e4c253ef465d</guid>
+            <pubDate>Mon, 18 Jan 2016 14:29:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Meet me on tsū]]></title>
-            <description><![CDATA[<article><h1>Meet me on tsū</h1><p>Have you ever heard about tsū? Me neither, that's why I will test this not new but in some way other social network. You only get access to this network by invitation. Join me on tsū.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/94f86797b11fb870e31c6b56b312b149b6580a9c.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Meet me on tsū</h1><p>Have you ever heard about tsū? Me neither, that's why I will test this not new but in some way other social network. You only get access to this network by invitation. Join me on tsū.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3098a8344fcb9983753917db11c03361a192ba6.png"></article>]]></description>
             <link>http://www.tsu.co/skylinelady</link>
             <guid isPermaLink="false">f0337f19-16c3-4dc4-8351-6d4ebc2358dd</guid>
-            <pubDate>Mon, 18 Jan 2016 14:15:15 GMT</pubDate>
+            <pubDate>Mon, 18 Jan 2016 14:25:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[It's Partytime]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/skylinelady/</link>
             <guid isPermaLink="false">f22a4d5a-8914-4e1d-bf46-8fd101ac7a52</guid>
             <pubDate>Mon, 18 Jan 2016 13:15:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sparklers]]></title>
-            <description><![CDATA[<article><h1>Sparklers</h1><p>Love this little hand-held firework </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f6b3e79067fb32f7480f6e5c4c831018fed846e.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=ahCMPwMgZe0</link>
-            <guid isPermaLink="false">dd444b02-e519-44d1-91dc-d5370c2363b8</guid>
-            <pubDate>Mon, 18 Jan 2016 13:15:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
