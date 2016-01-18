@@ -4,8 +4,15 @@
         <description><![CDATA[Travel & Lifestyle]]></description>
         <link>http://skylinelady.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 17:28:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 17:30:01 GMT</lastBuildDate>
         <atom:link href="http://skylinelady.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Me]]></title>
+            <description><![CDATA[<article><h1>About Me</h1><h2>Meanwhile you can follow me #skylinelady</h2><p>I post and share English and German contributions - almost bilingual.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aeb6d4df0b80a7ff10c1755711e3f9f217ed5907.jpg"></article>]]></description>
+            <link>http://skylinelady.com/about-me/index.html</link>
+            <guid isPermaLink="false">ff5bc2ce-12da-49d0-a21e-fe15f1cd1bd4</guid>
+            <pubDate>Mon, 18 Jan 2016 17:29:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Grid AI]]></title>
             <description><![CDATA[<article><h1>The Grid AI</h1><p>This site was created with Artificial Intelligence powered by the Grid. More than a year I have been waiting, and then came the long-awaited access link and I could start right away. But the wait was worth it. I am proud to be a Founding Member.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e403e87655a01b2caff513145d861447a9ae106.png"></article>]]></description>
@@ -15,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[Hello!]]></title>
-            <description><![CDATA[<article><h1>Hello!</h1><p>Sky GIF</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b6582b346913a1aed79442edf0dd777f98058f8b.gif"></article>]]></description>
+            <description><![CDATA[<article><h1>Hello!</h1><p>Sky GIF</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d90a28f67a1197ff14233ac6c5cfe9e845623df3.gif"></article>]]></description>
             <link>http://skylinelady.com/hello/index.html</link>
             <guid isPermaLink="false">606bb069-f9d1-4134-8f38-ba40128efbf7</guid>
             <pubDate>Mon, 18 Jan 2016 17:28:09 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://de.pinterest.com/skylinelady/</link>
             <guid isPermaLink="false">d479f5da-82eb-42c8-8ba6-3ed040fe83d5</guid>
             <pubDate>Mon, 18 Jan 2016 13:58:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Moments of happiness]]></title>
-            <description><![CDATA[<article><h1>Moments of happiness</h1><p>Meditation is scientifically proven to lower stress, increase happiness and much more. Learn today with the free 7 Days of Calm program.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6216a0e1eda306d1d4e160ade551c8c9489d81dd.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=wni_nsyGAsw&amp;feature=youtu.be</link>
-            <guid isPermaLink="false">98c16c24-a329-4252-b35f-fab1d4a29d75</guid>
-            <pubDate>Mon, 18 Jan 2016 17:25:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
