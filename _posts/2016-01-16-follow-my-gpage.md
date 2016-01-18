@@ -7,7 +7,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Social/Google+
-datePublished: '2016-01-18T13:15:43.277Z'
+datePublished: '2016-01-18T13:15:43.350Z'
 dateModified: '2016-01-18T13:15:43.139Z'
 author:
   - avatar:
