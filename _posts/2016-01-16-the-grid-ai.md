@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://thegrid.io/'
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - automatically
   - layout
 description: 'This is not another do-it-yourself website builder. The Grid harnesses the power of artificial intelligence to take everything you throw at it - videos, images, text, urls and more - and automatically shape them into a custom website unique to you. As your needs grow, it evolves with you, effortlessly adapting to your needs.'
-datePublished: '2016-01-18T12:54:42.527Z'
-dateModified: '2016-01-18T12:54:41.913Z'
+datePublished: '2016-01-18T13:08:51.110Z'
+dateModified: '2016-01-18T13:08:48.949Z'
 author: []
 related: []
 app_links: []
@@ -31,6 +30,7 @@ publisher:
   domain: thegrid.io
   url: 'https://thegrid.io'
   favicon: 'https://passport.thegrid.io/favicon.ico'
+url: the-grid-ai/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
