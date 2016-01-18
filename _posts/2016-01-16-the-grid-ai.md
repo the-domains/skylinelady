@@ -17,12 +17,12 @@ keywords:
   - automatically
   - layout
 description: 'This is not another do-it-yourself website builder. The Grid harnesses the power of artificial intelligence to take everything you throw at it - videos, images, text, urls and more - and automatically shape them into a custom website unique to you. As your needs grow, it evolves with you, effortlessly adapting to your needs.'
-datePublished: '2016-01-17T21:18:40.488Z'
-dateModified: '2016-01-17T21:18:34.119Z'
+datePublished: '2016-01-17T22:53:29.279Z'
+dateModified: '2016-01-17T22:53:26.352Z'
 author: []
 related: []
 app_links: []
-title: This site was created with the Grid AI
+title: The Grid AI
 sourcePath: _posts/2016-01-16-the-grid-ai.md
 published: true
 authors: []
@@ -37,6 +37,6 @@ _type: MediaObject
 ---
 # 
     
-    # This site was created with the Grid AI
+    # The Grid AI
 
-![This is not another do-it-yourself website builder. The Grid harnesses the power of artificial intelligence to take everything you throw at it - videos, images, text, urls and more - and automatically shape them into a custom website unique to you. As your needs grow, it evolves with you, effortlessly adapting to your needs.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d76d42d1-6924-4088-9473-2f3385ad05b0.png)
+This site was created with Artificial Intelligence powered by the Grid. ![This is not another do-it-yourself website builder. The Grid harnesses the power of artificial intelligence to take everything you throw at it - videos, images, text, urls and more - and automatically shape them into a custom website unique to you. As your needs grow, it evolves with you, effortlessly adapting to your needs.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d76d42d1-6924-4088-9473-2f3385ad05b0.png)
