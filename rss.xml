@@ -4,7 +4,7 @@
         <description><![CDATA[Travel & Lifestyle]]></description>
         <link>http://skylinelady.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 21:57:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 11:51:08 GMT</lastBuildDate>
         <atom:link href="http://skylinelady.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Me]]></title>
@@ -12,6 +12,13 @@
             <link>http://skylinelady.com/about-me/index.html</link>
             <guid isPermaLink="false">ff5bc2ce-12da-49d0-a21e-fe15f1cd1bd4</guid>
             <pubDate>Mon, 18 Jan 2016 17:29:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It's Partytime]]></title>
+            <description><![CDATA[<article><h1>It's Partytime</h1><p>Yes it's true I am a digital native. I love the Internet and its endless possibilities. If I look for a recipe or my next trip preparatory, the Internet is my home. I would call myself a heavy user of Instagram, I check-in regularly on Foursquare, collect inspiration boards on Pinterest and Tweet or Snap now and then.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e9cea8b8d0ab5d5c0a03e1895467769125e4b183.gif"></article>]]></description>
+            <link>http://skylinelady.com/lets-celebrate/index.html</link>
+            <guid isPermaLink="false">6c87f45f-7be3-46fb-b3d6-76df96500363</guid>
+            <pubDate>Tue, 19 Jan 2016 11:51:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Moments of happiness]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/skylinelady?lang=de</link>
             <guid isPermaLink="false">68ebe996-4b0c-4ad6-a84a-bf5287ab9847</guid>
             <pubDate>Mon, 18 Jan 2016 14:43:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Repost]]></title>
-            <description><![CDATA[<article><h1>Repost</h1><p>Everyone has a routine. Wake up, get dressed, grab a coffee, go to work, go home, sleep. The next day? Do it all again. When filmmaker and photographer Julien Douvier realized he'd been doing the same thing every morning for three years, did something about it. He made GIFs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8a4fd6d6c72b475ea72bb41d081c00e00bd2aba.jpg"></article>]]></description>
-            <link>http://skylinelady.com/repost/index.html</link>
-            <guid isPermaLink="false">d6028857-0163-4f51-8a6d-209f5c0b4d8e</guid>
-            <pubDate>Mon, 18 Jan 2016 14:42:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
