@@ -4,14 +4,21 @@
         <description><![CDATA[Travel & Lifestyle]]></description>
         <link>http://skylinelady.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 14:17:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 19:36:05 GMT</lastBuildDate>
         <atom:link href="http://skylinelady.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Me]]></title>
-            <description><![CDATA[<article><h1>About Me</h1><h2>Meanwhile you can follow me #skylinelady</h2><p>I post and share English and German contributions - almost bilingual.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8d16a3a59d15c78599edad3c8ed874ac94f2ffe.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>About Me</h1><h2>Meanwhile you can follow me #skylinelady</h2><p>I post and share English and German contributions - almost bilingual.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c3d6c0a3a99f1f9ea7dc8785cf1f2e4be808af0.jpg"></article>]]></description>
             <link>http://skylinelady.com/about-me/index.html</link>
             <guid isPermaLink="false">ff5bc2ce-12da-49d0-a21e-fe15f1cd1bd4</guid>
             <pubDate>Tue, 19 Jan 2016 14:16:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1e42cf8aacaf2951c4dc69d5f2ab42e6f780470e.png"></article>]]></description>
+            <link>http://rentanexpert.me/</link>
+            <guid isPermaLink="false">2f11b882-2c30-4bec-b66d-b3ddf5d6ba00</guid>
+            <pubDate>Tue, 19 Jan 2016 19:35:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pictures on sale]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.tumblr.com/blog/skylinelady</link>
             <guid isPermaLink="false">10845aa1-58e0-453e-8b83-515fb212cfa4</guid>
             <pubDate>Mon, 18 Jan 2016 20:44:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Grid AI]]></title>
-            <description><![CDATA[<article><h1>The Grid AI</h1><p>This site was created with Artificial Intelligence powered by the Grid. More than a year I have been waiting, and then came the long-awaited access link and I could start right away. But the wait was worth it. I am proud to be a Founding Member.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e403e87655a01b2caff513145d861447a9ae106.png"></article>]]></description>
-            <link>https://thegrid.io/</link>
-            <guid isPermaLink="false">c1ae799e-b34c-4096-983e-537558304e0e</guid>
-            <pubDate>Mon, 18 Jan 2016 17:27:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
