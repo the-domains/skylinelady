@@ -4,7 +4,7 @@
         <description><![CDATA[Travel & Lifestyle]]></description>
         <link>http://skylinelady.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 11:51:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 13:48:13 GMT</lastBuildDate>
         <atom:link href="http://skylinelady.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Me]]></title>
@@ -12,6 +12,13 @@
             <link>http://skylinelady.com/about-me/index.html</link>
             <guid isPermaLink="false">ff5bc2ce-12da-49d0-a21e-fe15f1cd1bd4</guid>
             <pubDate>Mon, 18 Jan 2016 17:29:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Snapchat]]></title>
+            <description><![CDATA[<article><h1>Snapchat</h1><p>So many great apps are available out there. Recently one of my favorite apps. Let's social connect.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/adce9277560f906144e5aa1b5b027be49c54dbc6.jpg"></article>]]></description>
+            <link>https://skylinelady.com/</link>
+            <guid isPermaLink="false">dbc4b648-5492-4b1d-b302-13e9b4589f0f</guid>
+            <pubDate>Tue, 19 Jan 2016 13:48:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[It's Partytime]]></title>
@@ -68,13 +75,6 @@
             <link>http://skylinelady.com/hello/index.html</link>
             <guid isPermaLink="false">606bb069-f9d1-4134-8f38-ba40128efbf7</guid>
             <pubDate>Mon, 18 Jan 2016 17:28:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Repost]]></title>
-            <description><![CDATA[<article><h1>Repost</h1><p>Follow my  Tweets (@skylinelady)</p></article>]]></description>
-            <link>https://twitter.com/skylinelady?lang=de</link>
-            <guid isPermaLink="false">68ebe996-4b0c-4ad6-a84a-bf5287ab9847</guid>
-            <pubDate>Mon, 18 Jan 2016 14:43:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
