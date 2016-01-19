@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Unbelievable my first blog ist LIVE
-datePublished: '2016-01-18T14:10:15.560Z'
-dateModified: '2016-01-18T14:10:15.055Z'
+datePublished: '2016-01-19T11:51:07.804Z'
+dateModified: '2016-01-19T11:51:06.002Z'
 author: []
 title: "It's Partytime"
 sourcePath: _posts/2016-01-16-celebration.md
@@ -27,7 +27,7 @@ _type: Article
 
 # It's Partytime
 
-**Yes it's true I am a digital native. **I love the Internet and its endless possibilities. If I look for a recipe or my next trip preparatory, the Internet is my home. I would call myself a heavy user of Instagram, I check-in regularly on Foursquare, collect inspiration boards on Pinterest, Tweet and Snap now and then.
+**Yes it's true I am a digital native. **I love the Internet and its endless possibilities. If I look for a recipe or my next trip preparatory, the Internet is my home. I would call myself a heavy user of Instagram, I check-in regularly on Foursquare, collect inspiration boards on Pinterest and Tweet or Snap now and then.
 
 **Awesome my blog is on!**
 ![Know this feeling?](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba1b7727b53791e22760928e74095795699d8b58.gif)
