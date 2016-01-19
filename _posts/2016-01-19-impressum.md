@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T14:08:17.090Z'
-dateModified: '2016-01-19T14:08:04.325Z'
+datePublished: '2016-01-19T14:08:33.633Z'
+dateModified: '2016-01-19T14:08:30.999Z'
 author: []
 related: []
 app_links: []
@@ -27,7 +27,7 @@ _type: MediaObject
 ---
 # Imprint 
 
-Angaben gemäß § 5 TMG
+Impressum Angaben gemäß § 5 TMG
 
 Caroline Kapfinger   
 Kettelerallee 19   
