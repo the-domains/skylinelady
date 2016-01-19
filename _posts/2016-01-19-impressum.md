@@ -1,17 +1,17 @@
 ---
 inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T13:41:56.859Z'
-dateModified: '2016-01-19T13:41:54.755Z'
+datePublished: '2016-01-19T13:50:24.349Z'
+dateModified: '2016-01-19T13:50:21.517Z'
 author: []
 related: []
 app_links: []
-title: Impressum
+title: Imprint / Impressum
 sourcePath: _posts/2016-01-19-impressum.md
 published: true
 authors: []
@@ -25,7 +25,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# Impressum
+# Imprint / Impressum
 
 Angaben gemäß § 5 TMG
 
