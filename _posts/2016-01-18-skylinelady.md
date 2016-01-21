@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Check out my photographer's gallery on Twenty20.com"
-datePublished: '2016-01-21T15:43:14.778Z'
-dateModified: '2016-01-21T15:43:12.747Z'
+datePublished: '2016-01-21T15:44:35.568Z'
+dateModified: '2016-01-21T15:44:33.342Z'
 author: []
 related: []
 app_links: []
@@ -26,7 +26,7 @@ _type: MediaObject
 
 ---
 # Pictures on sale
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/eab8e7126a093aa6dde0acc45dcb31fcd4750e58.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6515c10cc5b1702e82e35b596a8a6d477e63b833.jpg)
 
 I offer you a few of my favorite pictures for commercial and editorial use. Check out my photographer's gallery on [Twenty20][0]
 
