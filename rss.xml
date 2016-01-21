@@ -4,7 +4,7 @@
         <description><![CDATA[Travel & Lifestyle]]></description>
         <link>http://skylinelady.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 11:32:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jan 2016 11:35:52 GMT</lastBuildDate>
         <atom:link href="http://skylinelady.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Me]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 19 Jan 2016 14:16:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Meet me on tsū]]></title>
+            <description><![CDATA[<article><h1>Meet me on tsū</h1><p>ther, that's why I will test this not new but in some way other social network. tsū is an invite-only platform that rewards social activity for</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/952c9665521d6b04e5bccbbed2c594943c8b7719.png"></article>]]></description>
+            <link>http://www.tsu.co/skylinelady</link>
+            <guid isPermaLink="false">f0337f19-16c3-4dc4-8351-6d4ebc2358dd</guid>
+            <pubDate>Thu, 21 Jan 2016 11:34:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Than it began in 2015]]></title>
-            <description><![CDATA[<article><h1>Than it began in 2015</h1><p>In January 2015 I started documenting my journeys. And a year later, in January 2016 I have launched my blog. Everything opens up incredible. And that is pretty awesome - so you can imagine how grateful I am.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52e0f194c5507abf264e6a06582cd54abbdbb78c.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Than it began in 2015</h1><p>In January 2015 I started documenting my journeys. And a year later, in January 2016 I have launched my blog. Everything opens up incredible. And that is pretty awesome - so you can imagine how grateful I am.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96c4b0cd422d94cb111c611a232fc1cf03504a84.jpg"></article>]]></description>
             <link>http://skylinelady.com/than-it-began-in-2015/index.html</link>
             <guid isPermaLink="false">4104ac9f-56b8-4632-b750-37ce45f95cfa</guid>
             <pubDate>Thu, 21 Jan 2016 11:31:53 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=ahCMPwMgZe0</link>
             <guid isPermaLink="false">dd444b02-e519-44d1-91dc-d5370c2363b8</guid>
             <pubDate>Tue, 19 Jan 2016 14:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tumblr]]></title>
-            <description><![CDATA[<article><h1>Tumblr</h1><p>Guess what? Yes, I have a Tumblr Page. These lovely pages are great to Pause for a moment.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/689bc7665f007f56a41cc82713f59e572a95774a.gif"></article>]]></description>
-            <link>https://www.tumblr.com/blog/skylinelady</link>
-            <guid isPermaLink="false">10845aa1-58e0-453e-8b83-515fb212cfa4</guid>
-            <pubDate>Mon, 18 Jan 2016 20:44:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
