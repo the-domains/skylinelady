@@ -16,8 +16,8 @@ keywords:
   - kai
   - alexander
 description: RetreatBerlin
-datePublished: '2016-01-23T12:16:49.149Z'
-dateModified: '2016-01-23T12:16:45.167Z'
+datePublished: '2016-01-23T12:18:54.462Z'
+dateModified: '2016-01-23T12:18:52.044Z'
 author:
   - name: Retreat Berlin
     url: 'https://www.youtube.com/user/retreatberlin'
@@ -50,8 +50,8 @@ _context: 'http://schema.org'
 ---
 # Mentorship
 
-Meine Soulsister hat es letztes Jahr vorgemacht und hat das Retreat Berlin gegründet. Erfahre in diesem kurzen Film, was dich bei einer persönlichen Session bei Maria Christina Gabriel erwartet, wie ihre Arbeit als spirituelle Mentorin eigentlich aussieht und begleite sie durch ihren Tag in Berlin. 
-
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FCLQQc7YXPWo%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCLQQc7YXPWo&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FCLQQc7YXPWo%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
+
+Meine Soulsister hat es letztes Jahr vorgemacht und hat das Retreat Berlin gegründet. Erfahre in diesem kurzen Film, was dich bei einer persönlichen Session bei Maria Christina Gabriel erwartet, wie ihre Arbeit als spirituelle Mentorin eigentlich aussieht und begleite sie durch ihren Tag in Berlin. 
 
 Erfahre in einem kurzen Film, was dich bei einer persönlichen Session bei Maria Christina Gabriel erwartet, wie ihre Arbeit als spirituelle Mentorin eigentlich aussieht und begleite sie durch ihren Tag in Berlin. Video: Alessia Mandanici http://haveacloselook.com Musik: Zander Sehkri - Faith and Passion http://www.retreat-berlin.com http://www.facebook.com/retreatberlin http://instagram.com/retreatberlin
