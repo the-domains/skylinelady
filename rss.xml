@@ -4,7 +4,7 @@
         <description><![CDATA[Travel & Lifestyle]]></description>
         <link>http://skylinelady.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 11:53:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2016 11:55:54 GMT</lastBuildDate>
         <atom:link href="http://skylinelady.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Me]]></title>
@@ -12,6 +12,13 @@
             <link>http://skylinelady.com/about-me/index.html</link>
             <guid isPermaLink="false">ff5bc2ce-12da-49d0-a21e-fe15f1cd1bd4</guid>
             <pubDate>Thu, 21 Jan 2016 12:23:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The daily madness of an Freelance Expert]]></title>
+            <description><![CDATA[<article><h1>The daily madness of an Freelance Expert</h1><p>It runs better with a bit of fun at work. Such a great page can't stop laughing. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f30028403d62cb7e3d0c9d504a414b295401833e.gif"></article>]]></description>
+            <link>http://rentanexpert.me/</link>
+            <guid isPermaLink="false">bc85e0ab-b69c-40da-8aee-878318e518fa</guid>
+            <pubDate>Sat, 23 Jan 2016 11:55:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mentorship]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=wni_nsyGAsw&amp;feature=youtu.be</link>
             <guid isPermaLink="false">98c16c24-a329-4252-b35f-fab1d4a29d75</guid>
             <pubDate>Tue, 19 Jan 2016 14:14:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Soundspiration]]></title>
-            <description><![CDATA[<article><h1>Soundspiration</h1><p>Listen 0:20 seconds the Rhine river bank sound. Pur relaxation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fec41494ad1f0fc5bb0bbcbe40fb8bbc988171c4.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=GooxSsUWiNM</link>
-            <guid isPermaLink="false">dd9dc671-06f6-4b25-ab65-cd9a2e69b51f</guid>
-            <pubDate>Tue, 19 Jan 2016 14:17:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
