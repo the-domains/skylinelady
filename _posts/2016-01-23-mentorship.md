@@ -16,8 +16,8 @@ keywords:
   - kai
   - alexander
 description: RetreatBerlin
-datePublished: '2016-01-23T11:41:51.087Z'
-dateModified: '2016-01-23T11:41:48.756Z'
+datePublished: '2016-01-23T11:45:04.885Z'
+dateModified: '2016-01-23T11:45:01.598Z'
 author:
   - name: Retreat Berlin
     url: 'https://www.youtube.com/user/retreatberlin'
@@ -58,4 +58,6 @@ Ich persönlich hatte jahrelang einen beruflichen Mentor, es war ein seniorer Ar
 
 Meiner Meinung nach, gibt es heutzutage leider viel zu wenige seniore Fachkräfte die ihr Wissen an die jüngeren weitergeben oder sie zumindest begleiten. Das soll jetzt nicht so verstanden werden, dass es an den potentiellen Mentoren liegt, auch die nächste Generation muss dafür natürlich bereit sein und Hilfe einfordern. Habt daher keine Scheu, wenn es mal nicht weitergeht oder ihr nicht weiter wisst. 
 
-Meine Soulsister hat es letztes Jahr vorgemacht und hat das Retreat Berlin gegründet. Erfahre in diesem kurzen Film, was dich bei einer persönlichen Session bei Maria Christina Gabriel erwartet, wie ihre Arbeit als spirituelle Mentorin eigentlich aussieht und begleite sie durch ihren Tag in Berlin.
+Meine Soulsister hat es letztes Jahr vorgemacht und hat das Retreat Berlin gegründet. Erfahre in diesem kurzen Film, was dich bei einer persönlichen Session bei Maria Christina Gabriel erwartet, wie ihre Arbeit als spirituelle Mentorin eigentlich aussieht und begleite sie durch ihren Tag in Berlin. 
+
+Erfahre in einem kurzen Film, was dich bei einer persönlichen Session bei Maria Christina Gabriel erwartet, wie ihre Arbeit als spirituelle Mentorin eigentlich aussieht und begleite sie durch ihren Tag in Berlin. Video: Alessia Mandanici http://haveacloselook.com Musik: Zander Sehkri - Faith and Passion http://www.retreat-berlin.com http://www.facebook.com/retreatberlin http://instagram.com/retreatberlin
