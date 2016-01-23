@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.spotify.com/'
-  name: Spotify
-  favicon: 'https://d4gv47jue7myv.cloudfront.net/images/favicon.png'
-  domain: play.spotify.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://play.spotify.com/user/skylinelady/playlist/37droNi222C30CRU2cHzlA?play=true&utm_source=open.spotify.com&utm_medium=open'
+inLanguage: en
+starred: false
 keywords:
   - soundtrack
   - cookie
@@ -17,8 +16,11 @@ keywords:
   - motion
   - yazz
   - odg
-description: 'A playlist featuring Empire Cast, OMI, Mark Ronson, and others'
-inLanguage: en
+description: 'Listen to my favourite playlist featuring Empire Cast, OMI, Mark Ronson, and others'
+datePublished: '2016-01-23T11:22:31.815Z'
+dateModified: '2016-01-23T11:22:08.798Z'
+author: []
+related: []
 app_links:
   - url: 'spotify://user/skylinelady/playlist/37droNi222C30CRU2cHzlA'
     type: android
@@ -28,17 +30,19 @@ app_links:
     type: ios
     app_name: Spotify
     app_store_id: '324684580'
-isBasedOnUrl: 'https://play.spotify.com/user/skylinelady/playlist/37droNi222C30CRU2cHzlA?play=true&utm_source=open.spotify.com&utm_medium=open'
-title: '2015 Tunes, a playlist by skylinelady on Spotify'
-datePublished: '2016-01-23T11:14:51.470Z'
-dateModified: '2016-01-22T21:19:43.770Z'
+title: Spotify
+authors: []
+publisher:
+  name: Spotify
+  domain: play.spotify.com
+  url: 'http://www.spotify.com/'
+  favicon: 'https://d4gv47jue7myv.cloudfront.net/images/favicon.png'
 sourcePath: _posts/2016-01-23-2015-tunes-a-playlist-by-skylinelady-on-spotify.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+Listen to my favourite Tunes and follow me on Spotify
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fembed.spotify.com%2F%3Furi%3Dspotify%3Auser%3Askylinelady%3Aplaylist%3A37droNi222C30CRU2cHzlA&amp;url=https%3A%2F%2Fopen.spotify.com%2Fuser%2Fskylinelady%2Fplaylist%2F37droNi222C30CRU2cHzlA&amp;image=http%3A%2F%2Fmosaic.scdn.co%2F640%2F960999aa71b7dbde14b74f106824377547b6dabab4de69e07371edfb58ad63c1eba9be41245a76833b5c6e9547bead2f50bab62c1100c8c4425e1b81809e5bf1f7fc4367a494c09ad69eef81a98318cb&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=spotify" width="300" height="380" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
