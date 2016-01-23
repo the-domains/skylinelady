@@ -16,8 +16,8 @@ keywords:
   - kai
   - alexander
 description: RetreatBerlin
-datePublished: '2016-01-23T11:17:18.496Z'
-dateModified: '2016-01-23T11:17:06.150Z'
+datePublished: '2016-01-23T11:27:55.085Z'
+dateModified: '2016-01-23T11:27:53.205Z'
 author:
   - name: Retreat Berlin
     url: 'https://www.youtube.com/user/retreatberlin'
@@ -35,14 +35,14 @@ app_links:
   - url: 'https://www.youtube.com/watch?v=CLQQc7YXPWo&feature=applinks'
     type: web
 title: Mentorship
+sourcePath: _posts/2016-01-23-mentorship.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-01-23-mentorship.md
-published: true
 url: mentorship/index.html
 _type: VideoObject
 _context: 'http://schema.org'
