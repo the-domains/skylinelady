@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-23T11:59:23.765Z'
-dateModified: '2016-01-23T11:59:20.000Z'
+datePublished: '2016-01-23T12:02:30.816Z'
+dateModified: '2016-01-23T12:02:27.979Z'
 author: []
 title: The daily madness of an Freelance Expert
 sourcePath: _posts/2016-01-23-the-daily-madness-of-an-freelance-expert.md
@@ -23,7 +23,8 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/683a7117d456cd8a5623e2049ffdec3da735cb74.gif)
+
 # The daily madness of an Freelance Expert
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f30028403d62cb7e3d0c9d504a414b295401833e.gif)
 
 It runs better with a bit of fun at work. Such a great page can't stop laughing.
