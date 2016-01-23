@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-23T12:02:30.923Z'
-dateModified: '2016-01-23T12:02:27.979Z'
+datePublished: '2016-01-23T12:07:22.811Z'
+dateModified: '2016-01-23T12:07:19.627Z'
 author: []
 title: The daily madness of an Freelance Expert
 sourcePath: _posts/2016-01-23-the-daily-madness-of-an-freelance-expert.md
