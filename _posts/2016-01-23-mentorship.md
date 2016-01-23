@@ -16,8 +16,8 @@ keywords:
   - kai
   - alexander
 description: RetreatBerlin
-datePublished: '2016-01-23T11:27:55.107Z'
-dateModified: '2016-01-23T11:27:53.205Z'
+datePublished: '2016-01-23T11:28:06.857Z'
+dateModified: '2016-01-23T11:28:05.025Z'
 author:
   - name: Retreat Berlin
     url: 'https://www.youtube.com/user/retreatberlin'
@@ -50,7 +50,7 @@ _context: 'http://schema.org'
 ---
 # Mentorship
 
-ist ein wichtiges Thema mit dem ich mich seit Jahren beschäftige. Während meiner beruflichen Tätigkeit durfte ich Lehrlinge, Trainees und Praktikanten als Mentor begleiten und ihnen mit Rat und Tat zur Seite stehen. 
+ist ein wichtiges Thema mit dem ich mich seit Jahren beschäftige. Während meiner beruflichen Tätigkeit durfte ich Lehrlinge, Trainees und Praktikanten als Mentorin begleiten und ihnen mit Rat und Tat zur Seite stehen. 
 
 Ich persönlich hatte jahrelang einen beruflichen Mentor, es war ein seniorer Arbeitskollege, der zudem eine gestandene Größe in der Werbewelt war. Von ihm lernte ich meine fachlichen Skills, er war mein Ansprechpartner in jeglichen beruflichen Belange und diese Zeit möchte ich in keinem Fall missen.
 
