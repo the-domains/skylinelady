@@ -16,7 +16,7 @@ keywords:
   - kai
   - alexander
 description: RetreatBerlin
-datePublished: '2016-01-23T12:46:27.596Z'
+datePublished: '2016-01-23T12:46:27.670Z'
 dateModified: '2016-01-23T12:46:24.402Z'
 author:
   - name: Retreat Berlin
