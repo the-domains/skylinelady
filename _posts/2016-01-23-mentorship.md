@@ -16,8 +16,8 @@ keywords:
   - kai
   - alexander
 description: RetreatBerlin
-datePublished: '2016-01-23T12:23:40.027Z'
-dateModified: '2016-01-23T12:23:36.691Z'
+datePublished: '2016-01-23T12:24:30.123Z'
+dateModified: '2016-01-23T12:24:27.533Z'
 author:
   - name: Retreat Berlin
     url: 'https://www.youtube.com/user/retreatberlin'
@@ -54,4 +54,4 @@ _context: 'http://schema.org'
 
 My Soul Sister has led the way last year and founded the Retreat Berlin. Learn in this short film of what to expect at a personal session with Maria Christina Gabriel, how her work as a spiritual mentor actually looks like and accompany her through her day in Berlin.
 
-Video: Alessia Mandanici http://haveacloselook.com Musik: Zander Sehkri - Faith and Passion http://www.retreat-berlin.com http://www.facebook.com/retreatberlin http://instagram.com/retreatberlin
+The clip is in German. Video: Alessia Mandanici http://haveacloselook.com Musik: Zander Sehkri - Faith and Passion http://www.retreat-berlin.com http://www.facebook.com/retreatberlin http://instagram.com/retreatberlin
