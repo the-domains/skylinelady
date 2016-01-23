@@ -4,7 +4,7 @@
         <description><![CDATA[Travel & Lifestyle]]></description>
         <link>http://skylinelady.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 11:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2016 11:17:35 GMT</lastBuildDate>
         <atom:link href="http://skylinelady.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Me]]></title>
@@ -12,6 +12,13 @@
             <link>http://skylinelady.com/about-me/index.html</link>
             <guid isPermaLink="false">ff5bc2ce-12da-49d0-a21e-fe15f1cd1bd4</guid>
             <pubDate>Thu, 21 Jan 2016 12:23:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mentorship]]></title>
+            <description><![CDATA[<article><h1>Mentorship</h1><p>ist ein wichtiges Thema mit dem ich mich seit Jahren beschäftige. Während meiner beruflichen Tätigkeit durfte ich Lehrlinge, Trainees und Praktikanten als Mentor begleiten und ihnen mit Rat und Tat zur Seite stehen. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e6d505d88ce5bc6dfe61403069efbeb9c65d9e7.jpg"></article>]]></description>
+            <link>http://skylinelady.com/mentorship/index.html</link>
+            <guid isPermaLink="false">6d89c291-38aa-4b8e-bdad-669d150b9445</guid>
+            <pubDate>Sat, 23 Jan 2016 11:17:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2015 Tunes, a playlist by skylinelady on Spotify]]></title>
