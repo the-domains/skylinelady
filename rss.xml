@@ -4,7 +4,7 @@
         <description><![CDATA[Travel & Lifestyle]]></description>
         <link>http://skylinelady.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 19:44:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 20:45:45 GMT</lastBuildDate>
         <atom:link href="http://skylinelady.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Me]]></title>
@@ -12,6 +12,13 @@
             <link>http://skylinelady.com/about-me/index.html</link>
             <guid isPermaLink="false">ff5bc2ce-12da-49d0-a21e-fe15f1cd1bd4</guid>
             <pubDate>Thu, 21 Jan 2016 12:23:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://www.moo.com/images/nfc/paper-plus-still.jpg?q=1-827117409795065220">]]></description>
+            <link>http://skylinelady.com/6d725ec5-bbfe-40fc-bdcf-a1675439e29d/index.html</link>
+            <guid isPermaLink="false">6d725ec5-bbfe-40fc-bdcf-a1675439e29d</guid>
+            <pubDate>Wed, 27 Jan 2016 20:45:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The daily madness of an Freelance Expert]]></title>
@@ -57,10 +64,10 @@
         </item>
         <item>
             <title><![CDATA[Snapchat]]></title>
-            <description><![CDATA[<article><h1>Snapchat</h1><p>So many great apps are available out there. Recently one of my favorite apps. Send me your snaps. Let's social connect.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f652c7984ae3a35f4605f1d0de8a7f32966aa1c.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Snapchat</h1><p>So many great apps are available out there. Recently one of my favorite apps. Send me your snaps. Let's social connect.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/222a1a86a0cfcb5f77cbfb09905952b25ab228e2.jpg"></article>]]></description>
             <link>https://skylinelady.com/</link>
             <guid isPermaLink="false">dbc4b648-5492-4b1d-b302-13e9b4589f0f</guid>
-            <pubDate>Mon, 25 Jan 2016 19:44:37 GMT</pubDate>
+            <pubDate>Mon, 25 Jan 2016 19:44:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[It's Partytime]]></title>
@@ -68,13 +75,6 @@
             <link>http://skylinelady.com/lets-celebrate/index.html</link>
             <guid isPermaLink="false">6c87f45f-7be3-46fb-b3d6-76df96500363</guid>
             <pubDate>Tue, 19 Jan 2016 11:51:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Moments of happiness]]></title>
-            <description><![CDATA[<article><h1>Moments of happiness</h1><p>Meditation is scientifically proven to lower stress, increase happiness and much more. Learn today with the free 7 Days of Calm program.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6216a0e1eda306d1d4e160ade551c8c9489d81dd.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=wni_nsyGAsw&amp;feature=youtu.be</link>
-            <guid isPermaLink="false">98c16c24-a329-4252-b35f-fab1d4a29d75</guid>
-            <pubDate>Tue, 19 Jan 2016 14:14:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
