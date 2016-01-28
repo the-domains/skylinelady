@@ -17,8 +17,8 @@ keywords:
   - yazz
   - odg
 description: ''
-datePublished: '2016-01-28T20:38:06.104Z'
-dateModified: '2016-01-28T20:38:03.743Z'
+datePublished: '2016-01-28T20:52:32.362Z'
+dateModified: '2016-01-28T20:52:30.133Z'
 author: []
 related: []
 app_links:
@@ -45,23 +45,18 @@ _type: MediaObject
 ---
 # [Spotify][0]
 
-Listen to my favourite Tunes and follow me on Spotify:
+Listen to my favourite Tunes and follow me on Spotify.
 
-[Alltime Classics][1]
+[**Alltime Classics**][1]
 
-[2015 Tunes][2]
+[**HipHop Tunes**][2]
 
-[HipHop Tunes][3]
+[**R&B Tunes**][3]
 
-[R&B Tunes][4]
-
-[Electro Tunes][5]
-
-https://play.spotify.com/user/skylinelady
+[**Electro Tunes**][4]
 
 [0]: https://play.spotify.com/user/skylinelady
 [1]: https://play.spotify.com/user/skylinelady/playlist/2bYRcBtyYt4DBREWnEsxy8
-[2]: https://play.spotify.com/user/skylinelady/playlist/37droNi222C30CRU2cHzlA
-[3]: https://play.spotify.com/user/skylinelady/playlist/0l23964oUbSOVAyozFjNAb
-[4]: https://play.spotify.com/user/skylinelady/playlist/1QXOXOxWF4Zd4KjKoT1HWz
-[5]: https://play.spotify.com/user/skylinelady/playlist/4J1aEN5b0gRupz73VdzBUd
+[2]: https://play.spotify.com/user/skylinelady/playlist/0l23964oUbSOVAyozFjNAb
+[3]: https://play.spotify.com/user/skylinelady/playlist/1QXOXOxWF4Zd4KjKoT1HWz
+[4]: https://play.spotify.com/user/skylinelady/playlist/4J1aEN5b0gRupz73VdzBUd
