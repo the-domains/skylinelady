@@ -17,8 +17,8 @@ keywords:
   - yazz
   - odg
 description: ''
-datePublished: '2016-01-28T19:36:36.349Z'
-dateModified: '2016-01-28T19:36:34.108Z'
+datePublished: '2016-01-28T20:30:10.470Z'
+dateModified: '2016-01-28T20:30:07.073Z'
 author: []
 related: []
 app_links:
@@ -43,8 +43,8 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# Spotify
+# [Spotify][0]
 
 Listen to my favourite Tunes and follow me on [Spotify][0]
 
-[0]: http://open.spotify.com/user/skylinelady/playlist/37droNi222C30CRU2cHzlA
+[0]: https://open.spotify.com/user/skylinelady
