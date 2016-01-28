@@ -17,8 +17,8 @@ keywords:
   - kai
   - alexander
 description: RetreatBerlin
-datePublished: '2016-01-28T20:10:00.650Z'
-dateModified: '2016-01-28T20:09:58.502Z'
+datePublished: '2016-01-28T20:29:11.158Z'
+dateModified: '2016-01-28T20:29:09.293Z'
 author:
   - name: Retreat Berlin
     url: 'https://www.youtube.com/user/retreatberlin'
@@ -48,13 +48,11 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FCLQQc7YXPWo%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCLQQc7YXPWo&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FCLQQc7YXPWo%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
+
 My Soul Sister has led the way last year and founded the Retreat Berlin. Learn in this short film what to expect at a personal session with Maria Christina Gabriel, how her work as a spiritual mentor actually looks like and accompany her through her day in Berlin.
 
 The clip is in German. Video: [Alessia Mandanici][0], Musik: Zander Sehkri - Faith and Passion [Retreat Berlin][1]. Check her [Facebook][2] or [Instagram][3] page and start to follow this lovely lady today.
-
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FCLQQc7YXPWo%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCLQQc7YXPWo&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FCLQQc7YXPWo%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
-
-
 
 [0]: http://haveacloselook.com /
 [1]: http://www.retreat-berlin.com/
