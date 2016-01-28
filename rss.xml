@@ -4,7 +4,7 @@
         <description><![CDATA[Travel & Lifestyle]]></description>
         <link>http://skylinelady.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 20:32:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jan 2016 20:36:01 GMT</lastBuildDate>
         <atom:link href="http://skylinelady.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Me]]></title>
@@ -14,10 +14,17 @@
             <pubDate>Thu, 21 Jan 2016 12:23:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Pharrell Williams - Happy]]></title>
+            <description><![CDATA[<article><h1>Pharrell Williams - Happy</h1><p>Pharrell Williams presents "Happy" - the world's first 24 hour music video.</p></article>]]></description>
+            <link>http://24hoursofhappy.com/</link>
+            <guid isPermaLink="false">0c64ca96-ec0a-477f-9bff-b97a4db66b25</guid>
+            <pubDate>Thu, 28 Jan 2016 20:33:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Printables]]></title>
             <description><![CDATA[<article><h1>Printables</h1><p>When it comes to business cards, I rely on my online printer MOO.COM.
 
-It is super easy, offers a variety of templates and in a few minutes you can have your own business cards, flyers, stickers, greeting cards or any other printable you desire. I've just ordered my new business cards MOO.COM + with NFC technology (no reason to be jealous)! Click on the image and get a 10% discount on your first order.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1c794127bae0a0d64f7e977881afe185ca7953d.gif"></article>]]></description>
+It is super easy, offers a variety of templates and in a few minutes you can have your own business cards, flyers, stickers, greeting cards or any other printable you desire. I've just ordered my new business cards MOO.COM + with NFC technology (no reason to be jealous)! Click on the image and get a 10% discount on your first order.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3553fcd2014f029ac1cd81ef9075967d3ba148a8.gif"></article>]]></description>
             <link>https://www.moo.com/de/products/nfc/paper-plus.html</link>
             <guid isPermaLink="false">6d725ec5-bbfe-40fc-bdcf-a1675439e29d</guid>
             <pubDate>Thu, 28 Jan 2016 20:31:28 GMT</pubDate>
@@ -41,7 +48,7 @@ It is super easy, offers a variety of templates and in a few minutes you can hav
             <description><![CDATA[<article><h1>Spotify</h1><p>Listen to my favourite Tunes and follow me on Spotify</p></article>]]></description>
             <link>https://play.spotify.com/user/skylinelady/playlist/37droNi222C30CRU2cHzlA?play=true&amp;utm_source=open.spotify.com&amp;utm_medium=open</link>
             <guid isPermaLink="false">f27c411a-46db-4b6b-b634-292a1b288974</guid>
-            <pubDate>Thu, 28 Jan 2016 20:30:10 GMT</pubDate>
+            <pubDate>Thu, 28 Jan 2016 20:35:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Meet me on tsū]]></title>
@@ -70,13 +77,6 @@ It is super easy, offers a variety of templates and in a few minutes you can hav
             <link>https://skylinelady.com/</link>
             <guid isPermaLink="false">dbc4b648-5492-4b1d-b302-13e9b4589f0f</guid>
             <pubDate>Mon, 25 Jan 2016 19:44:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It's Partytime]]></title>
-            <description><![CDATA[<article><h1>It's Partytime</h1><p>Yes it's true I am a digital native. I love the Internet and its endless possibilities. If I look for a recipe or my next trip preparatory, the Internet is my home. I would call myself a heavy user of Instagram, I check-in regularly on Foursquare, collect inspiration boards on Pinterest and Tweet or Snap now and then.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1df564a7c16359ce31e09ea55882b91373c88d5.gif"></article>]]></description>
-            <link>http://skylinelady.com/lets-celebrate/index.html</link>
-            <guid isPermaLink="false">6c87f45f-7be3-46fb-b3d6-76df96500363</guid>
-            <pubDate>Tue, 19 Jan 2016 11:51:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
