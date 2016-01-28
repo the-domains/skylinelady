@@ -17,7 +17,7 @@ keywords:
   - pharell
   - love
 description: "Pharrell Williams presents \"Happy\" - the world's first 24 hour music video."
-datePublished: '2016-01-28T21:09:46.438Z'
+datePublished: '2016-01-28T21:09:46.578Z'
 dateModified: '2016-01-28T21:09:43.674Z'
 author: []
 related: []
