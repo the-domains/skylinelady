@@ -16,7 +16,7 @@ keywords:
   - kai
   - alexander
 description: Mentorship
-datePublished: '2016-01-29T20:24:59.585Z'
+datePublished: '2016-01-29T20:24:59.618Z'
 dateModified: '2016-01-29T20:24:56.168Z'
 author:
   - name: Retreat Berlin
