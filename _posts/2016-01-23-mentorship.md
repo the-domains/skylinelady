@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=CLQQc7YXPWo'
 inLanguage: en
 starred: false
 keywords:
@@ -16,9 +15,9 @@ keywords:
   - vloggt
   - kai
   - alexander
-description: RetreatBerlin
-datePublished: '2016-01-28T20:29:11.245Z'
-dateModified: '2016-01-28T20:29:09.293Z'
+description: Mentorship
+datePublished: '2016-01-29T20:24:59.585Z'
+dateModified: '2016-01-29T20:24:56.168Z'
 author:
   - name: Retreat Berlin
     url: 'https://www.youtube.com/user/retreatberlin'
@@ -35,7 +34,7 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=CLQQc7YXPWo&feature=applinks'
     type: web
-title: Mentorship
+title: RetreatBerlin
 sourcePath: _posts/2016-01-23-mentorship.md
 published: true
 authors: []
@@ -44,6 +43,7 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+url: retreatberlin/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
