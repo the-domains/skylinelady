@@ -17,8 +17,8 @@ keywords:
   - yazz
   - odg
 description: ''
-datePublished: '2016-01-29T21:14:45.988Z'
-dateModified: '2016-01-29T21:14:40.462Z'
+datePublished: '2016-01-29T21:20:42.324Z'
+dateModified: '2016-01-29T21:20:39.496Z'
 author: []
 related: []
 app_links:
@@ -51,7 +51,7 @@ _type: MediaObject
 
 # [
 
-<iframe src="https://embed.spotify.com/?uri=spotify:user:skylinelady:playlist:2bYRcBtyYt4DBREWnEsxy8" width="300" height="380" frameborder="0" style=""></iframe>
+<iframe src=" https:=" frameborder="0" style=""><iframe src="https://embed.spotify.com/?uri=spotify:user:erebore:playlist:2bYRcBtyYt4DBREWnEsxy8&amp;view=coverart" frameborder="0"></iframe><iframe src="https://embed.spotify.com/?uri=spotify:user:erebore:playlist:0l23964oUbSOVAyozFjNAb&amp;theme=white" frameborder="0"></iframe><iframe src="https://embed.spotify.com/?uri=spotify:user:erebore:playlist:1QXOXOxWF4Zd4KjKoT1HWz&amp;theme=white&amp;view=coverart" frameborder="0"></iframe></iframe>
 
 ][0]
 
