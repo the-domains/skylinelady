@@ -17,8 +17,8 @@ keywords:
   - yazz
   - odg
 description: ''
-datePublished: '2016-01-29T21:20:42.423Z'
-dateModified: '2016-01-29T21:20:39.496Z'
+datePublished: '2016-01-29T21:26:19.370Z'
+dateModified: '2016-01-29T21:26:15.230Z'
 author: []
 related: []
 app_links:
@@ -49,12 +49,12 @@ _type: MediaObject
 
 # Spotify
 
-# [
+# 
 
-<iframe src=" https:=" frameborder="0" style=""><iframe src="https://embed.spotify.com/?uri=spotify:user:erebore:playlist:2bYRcBtyYt4DBREWnEsxy8&amp;view=coverart" frameborder="0"></iframe><iframe src="https://embed.spotify.com/?uri=spotify:user:erebore:playlist:0l23964oUbSOVAyozFjNAb&amp;theme=white" frameborder="0"></iframe><iframe src="https://embed.spotify.com/?uri=spotify:user:erebore:playlist:1QXOXOxWF4Zd4KjKoT1HWz&amp;theme=white&amp;view=coverart" frameborder="0"></iframe></iframe>
-
-][0]
+<iframe src="https://embed.spotify.com/?uri=spotify:trackset:PREFEREDTITLE:2bYRcBtyYt4DBREWnEsxy8,0l23964oUbSOVAyozFjNAb,1QXOXOxWF4Zd4KjKoT1HWz" frameborder="0" style=""></iframe>
 
 Listen to my favourite Tunes on Spotify and follow my Playlists.
 
-[0]: href
+<iframe src="https://embed.spotify.com/?uri=spotify:trackset:PREFEREDTITLE:2bYRcBtyYt4DBREWnEsxy8,0l23964oUbSOVAyozFjNAb,1QXOXOxWF4Zd4KjKoT1HWz" frameborder="0" style=""></iframe>
+
+<iframe src="https://embed.spotify.com/?uri=spotify:trackset:PREFEREDTITLE:2bYRcBtyYt4DBREWnEsxy8,0l23964oUbSOVAyozFjNAb,1QXOXOxWF4Zd4KjKoT1HWz" frameborder="0" style=""></iframe>
