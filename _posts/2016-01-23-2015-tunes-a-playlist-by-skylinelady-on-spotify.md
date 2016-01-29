@@ -17,8 +17,8 @@ keywords:
   - yazz
   - odg
 description: ''
-datePublished: '2016-01-29T20:18:17.635Z'
-dateModified: '2016-01-29T20:18:14.766Z'
+datePublished: '2016-01-29T20:21:17.863Z'
+dateModified: '2016-01-29T20:21:14.405Z'
 author: []
 related: []
 app_links:
@@ -47,7 +47,11 @@ _type: MediaObject
 
 Listen to my favourite Tunes and follow me on Spotify.
 
-**[Alltime Classic Playlist ][1]**
+**[
+
+<iframe src="https://embed.spotify.com/?uri=spotify:user:skylinelady:playlist:2bYRcBtyYt4DBREWnEsxy8" width="300" height="380" frameborder="0" style=""></iframe>
+
+"Alltime Classic Playlist ][1]**
 
 [0]: https://play.spotify.com/user/skylinelady
-[1]: https://play.spotify.com/user/skylinelady/playlist/2bYRcBtyYt4DBREWnEsxy8
+[1]: href
