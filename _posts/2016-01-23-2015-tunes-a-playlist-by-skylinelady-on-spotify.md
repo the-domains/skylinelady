@@ -17,8 +17,8 @@ keywords:
   - yazz
   - odg
 description: ''
-datePublished: '2016-01-29T21:29:50.144Z'
-dateModified: '2016-01-29T21:29:46.492Z'
+datePublished: '2016-01-29T21:31:59.707Z'
+dateModified: '2016-01-29T21:31:56.338Z'
 author: []
 related: []
 app_links:
@@ -45,11 +45,16 @@ _type: MediaObject
 ---
 # Spotify
 
-Listen to my favourite Tunes on Spotify and follow my [Playlists][0][
+Listen to my favourite Tunes on Spotify and follow my Playlists
 
-<iframe src="https://play.spotify.com/user/skylinelady/playlist/2bYRcBtyYt4DBREWnEsxy8" width="300" height="380" frameborder="0" style=""></iframe>
+<iframe src="src" style=""></iframe>
 
-][1]
+https://embed.spotify.com/?uri=spotify:trackset:PREFEREDTITLE:
 
-[0]: https://app.thegrid.io/posts/f27c411a-46db-4b6b-b634-292a1b288974/href
-[1]: href
+2bYRcBtyYt4DBREWnEsxy8
+
+````
+
+"
+width="300" height="380" frameborder="0"
+allowtransparency="true"
