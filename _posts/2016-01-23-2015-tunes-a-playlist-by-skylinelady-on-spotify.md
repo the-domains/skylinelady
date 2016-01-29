@@ -17,8 +17,8 @@ keywords:
   - yazz
   - odg
 description: ''
-datePublished: '2016-01-29T20:32:58.610Z'
-dateModified: '2016-01-29T20:32:55.248Z'
+datePublished: '2016-01-29T20:33:48.649Z'
+dateModified: '2016-01-29T20:33:45.978Z'
 author: []
 related: []
 app_links:
@@ -30,7 +30,7 @@ app_links:
     type: ios
     app_name: Spotify
     app_store_id: '324684580'
-title: ' '
+title: Spotify
 sourcePath: _posts/2016-01-23-2015-tunes-a-playlist-by-skylinelady-on-spotify.md
 published: true
 authors: []
@@ -46,6 +46,8 @@ _type: MediaObject
 ****
 
 ****
+
+# Spotify
 
 ****[
 
