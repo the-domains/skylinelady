@@ -17,8 +17,8 @@ keywords:
   - yazz
   - odg
 description: ''
-datePublished: '2016-01-29T21:26:19.370Z'
-dateModified: '2016-01-29T21:26:15.230Z'
+datePublished: '2016-01-29T21:28:29.734Z'
+dateModified: '2016-01-29T21:28:27.566Z'
 author: []
 related: []
 app_links:
@@ -43,18 +43,12 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-****
-
-****
-
 # Spotify
 
-# 
+Listen to my favourite Tunes on Spotify and follow my [
 
-<iframe src="https://embed.spotify.com/?uri=spotify:trackset:PREFEREDTITLE:2bYRcBtyYt4DBREWnEsxy8,0l23964oUbSOVAyozFjNAb,1QXOXOxWF4Zd4KjKoT1HWz" frameborder="0" style=""></iframe>
+<iframe src="https://play.spotify.com/user/skylinelady/playlist/2bYRcBtyYt4DBREWnEsxy8" width="300" height="380" frameborder="0" style=""></iframe>
 
-Listen to my favourite Tunes on Spotify and follow my Playlists.
+"Playlists][0].
 
-<iframe src="https://embed.spotify.com/?uri=spotify:trackset:PREFEREDTITLE:2bYRcBtyYt4DBREWnEsxy8,0l23964oUbSOVAyozFjNAb,1QXOXOxWF4Zd4KjKoT1HWz" frameborder="0" style=""></iframe>
-
-<iframe src="https://embed.spotify.com/?uri=spotify:trackset:PREFEREDTITLE:2bYRcBtyYt4DBREWnEsxy8,0l23964oUbSOVAyozFjNAb,1QXOXOxWF4Zd4KjKoT1HWz" frameborder="0" style=""></iframe>
+[0]: href
