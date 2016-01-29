@@ -17,8 +17,8 @@ keywords:
   - yazz
   - odg
 description: ''
-datePublished: '2016-01-29T20:49:47.988Z'
-dateModified: '2016-01-29T20:49:44.637Z'
+datePublished: '2016-01-29T20:53:23.800Z'
+dateModified: '2016-01-29T20:53:19.920Z'
 author: []
 related: []
 app_links:
@@ -57,6 +57,6 @@ _type: MediaObject
 
 ][0]
 
-Listen to my favourite Tunes and follow me on Spotify.
+Listen to my favourite Tunes on Spotify and follow my Playlists.
 
 [0]: href
