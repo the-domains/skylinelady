@@ -16,8 +16,8 @@ keywords:
   - kai
   - alexander
 description: Mentorship
-datePublished: '2016-01-29T20:24:59.618Z'
-dateModified: '2016-01-29T20:24:56.168Z'
+datePublished: '2016-01-29T20:32:02.249Z'
+dateModified: '2016-01-29T20:31:59.739Z'
 author:
   - name: Retreat Berlin
     url: 'https://www.youtube.com/user/retreatberlin'
@@ -34,7 +34,7 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=CLQQc7YXPWo&feature=applinks'
     type: web
-title: RetreatBerlin
+title: Retreat Berlin
 sourcePath: _posts/2016-01-23-mentorship.md
 published: true
 authors: []
