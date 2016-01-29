@@ -17,8 +17,8 @@ keywords:
   - yazz
   - odg
 description: ''
-datePublished: '2016-01-29T21:31:59.770Z'
-dateModified: '2016-01-29T21:31:56.338Z'
+datePublished: '2016-01-29T21:35:50.565Z'
+dateModified: '2016-01-29T21:35:48.192Z'
 author: []
 related: []
 app_links:
@@ -45,16 +45,4 @@ _type: MediaObject
 ---
 # Spotify
 
-Listen to my favourite Tunes on Spotify and follow my Playlists
-
-<iframe src="src" style=""></iframe>
-
-https://embed.spotify.com/?uri=spotify:trackset:PREFEREDTITLE:
-
-2bYRcBtyYt4DBREWnEsxy8
-
-````
-
-"
-width="300" height="380" frameborder="0"
-allowtransparency="true"
+Listen to my favourite Tunes on Spotify and start following my Playlists
