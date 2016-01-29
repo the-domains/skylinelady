@@ -17,8 +17,8 @@ keywords:
   - yazz
   - odg
 description: ''
-datePublished: '2016-01-29T20:53:23.896Z'
-dateModified: '2016-01-29T20:53:19.920Z'
+datePublished: '2016-01-29T21:01:19.749Z'
+dateModified: '2016-01-29T21:01:16.535Z'
 author: []
 related: []
 app_links:
@@ -30,7 +30,7 @@ app_links:
     type: ios
     app_name: Spotify
     app_store_id: '324684580'
-title: Spotify
+title: Alltime Classics
 sourcePath: _posts/2016-01-23-2015-tunes-a-playlist-by-skylinelady-on-spotify.md
 published: true
 authors: []
@@ -47,15 +47,13 @@ _type: MediaObject
 
 ****
 
-# Spotify
-
-**Alltime Classics**
-
-[
+# [
 
 <iframe src="https://embed.spotify.com/?uri=spotify:user:skylinelady:playlist:2bYRcBtyYt4DBREWnEsxy8" width="300" height="380" frameborder="0" style=""></iframe>
 
-][0]
+][0]**Alltime Classics**
+
+# Spotify
 
 Listen to my favourite Tunes on Spotify and follow my Playlists.
 
