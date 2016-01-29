@@ -17,8 +17,8 @@ keywords:
   - yazz
   - odg
 description: ''
-datePublished: '2016-01-29T21:35:50.639Z'
-dateModified: '2016-01-29T21:35:48.192Z'
+datePublished: '2016-01-29T21:38:20.460Z'
+dateModified: '2016-01-29T21:38:16.663Z'
 author: []
 related: []
 app_links:
@@ -45,4 +45,6 @@ _type: MediaObject
 ---
 # Spotify
 
-Listen to my favourite Tunes on Spotify and start following my Playlists
+Listen to my favourite Tunes on Spotify and start following my [Playlists][0]
+
+[0]: https://open.spotify.com/user/skylinelady
