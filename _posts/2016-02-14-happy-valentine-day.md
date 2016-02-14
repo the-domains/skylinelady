@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: V-Day
-datePublished: '2016-02-14T20:03:26.211Z'
-dateModified: '2016-02-14T20:03:10.973Z'
+datePublished: '2016-02-14T20:06:38.711Z'
+dateModified: '2016-02-14T20:06:35.396Z'
 title: "Happy Valentine's Day"
 author: []
 sourcePath: _posts/2016-02-14-happy-valentine-day.md
@@ -27,7 +27,7 @@ _type: Article
 # Happy Valentine's Day
 
 Whether you're in a relationship or
-single V-Day has the advantage to say "I love you" to those people who are really important to us. And you don't even have to be in a
+single, the V-Day has the advantage to say "I love you" to those people who are really important to us. And you don't even have to be in a
 relationship. Basically, you can do it at each x-any day to day your loved once, so
 why not on V-Day. All couples are looking forward to this day, especially the
 florists, finally again give the partners a small but fine attention. And what
