@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: V-Day
-datePublished: '2016-02-14T20:18:06.432Z'
-dateModified: '2016-02-14T20:18:04.550Z'
+datePublished: '2016-02-14T20:20:47.928Z'
+dateModified: '2016-02-14T20:20:45.895Z'
 title: "Happy Valentine's Day"
 author: []
 sourcePath: _posts/2016-02-14-happy-valentine-day.md
@@ -22,6 +22,8 @@ url: happy-valentine-day/index.html
 _type: Article
 
 ---
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/696508a8d073b80db65b8fc84520f4c5402346dd.jpg)
+
 # Happy Valentine's Day
 
 Whether you're in a relationship or
@@ -35,5 +37,4 @@ there is a way to align it to your own needs. I used the day to
 send a message to my sweethearts to tell them in a really short message that I love them. Not only to my dearest friends, also to
 my family celebrating the V-Day, because we then spread out LOVE into
 the world, so that special commercial thoughtag uses your loved ones your
-reveal. And that's why we should spread love!  ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/696508a8d073b80db65b8fc84520f4c5402346dd.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1cec9ba9293ed21ee88e17788635311290904b5f.jpg)
+reveal. And that's why we should spread love!  ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1cec9ba9293ed21ee88e17788635311290904b5f.jpg)
