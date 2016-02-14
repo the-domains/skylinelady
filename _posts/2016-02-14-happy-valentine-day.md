@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-14T17:56:36.642Z'
-dateModified: '2016-02-14T17:56:26.636Z'
+datePublished: '2016-02-14T17:58:13.270Z'
+dateModified: '2016-02-14T17:58:10.304Z'
 title: Happy Valentine Day
 author: []
+sourcePath: _posts/2016-02-14-happy-valentine-day.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-14-happy-valentine-day.md
-published: true
 url: happy-valentine-day/index.html
 _type: Article
 
@@ -25,4 +25,4 @@ _type: Article
 # Happy Valentine Day
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cce58221-46ec-4981-aa8b-47b5daf31a56.jpg)
 
-Ganz gleich ob du in einer Beziehung bist oder Single der V-Day hat den Vorteil jenen Menschen "Ich Liebe Dich" zu sagen, die uns auch wirklich am Herzen liegen. Und dafür musst du nicht einmal in einer Beziehung sein. Im Grunde genommen kannst du es deinen Liebsten an jedem x-beliebigen Tag sagen, also warum nicht auch am V-Day. Alle Pärchen freuen sich auf diesen Tag, insbesonders die Floristen, endlich mal wieder eine  kleine aber feine Aufmerksamkeit dem Partner schenken. Und was ist mit den Singles? Die wünschten es würde diesen Tag nicht geben, bis zu dem Tag an dem der richtige Partner gefunden wurde. Aber hej liebe Singles, macht doch einen Mädelstag oder einen Tag der Freunde aus diesem mitlerweile weltweit verbreiteten Tag der Liebe. In jeder Situation gibt es einen Weg ihn auf deine eigenen Bedürfnisse auszurichten. Ich habe den Tag genutzt, meinen Liebsten eine kurze Nachricht zu senden das ich sie lieb habe, und das nicht nur an meine allerliebsten Freunde sondern auch an meine Familie. Feiert den V-Day, denn wir spühen viel zu wenig LIEBE in die Welt hinaus, also nutzt diesen speziellen wenn auch kommerziellen Tag auch euren Lieben eure zu offenbaren. Spread Love! ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b4202fc-efe4-458d-bec9-612cf7d42fa1.jpg)
+Ganz gleich ob du in einer Beziehung bist oder Single der V-Day hat den Vorteil jenen Menschen "Ich Liebe Dich" zu sagen, die uns auch wirklich am Herzen liegen. Und dafür musst du nicht einmal in einer Beziehung sein. Im Grunde genommen kannst du es deinen Liebsten an jedem x-beliebigen Tag sagen, also warum nicht auch am V-Day. Alle Pärchen freuen sich auf diesen Tag, insbesondere die Floristen, endlich mal wieder eine  kleine aber feine Aufmerksamkeit dem Partner schenken. Und was ist mit den Singles? Die wünschten es würde diesen Tag nicht geben, bis zu dem Tag an dem der richtige Partner gefunden wurde. Aber hej liebe Singles, macht doch einen Mädelstag oder einen Tag der Freunde aus diesem mittlerweile weltweit verbreiteten Tag der Liebe. In jeder Situation gibt es einen Weg ihn auf deine eigenen Bedürfnisse auszurichten. Ich habe den Tag genutzt, meinen Liebsten eine kurze Nachricht zu senden das ich sie lieb habe, und das nicht nur an meine allerliebsten Freunde sondern auch an meine Familie. Feiert den V-Day, denn wir spühen viel zu wenig LIEBE in die Welt hinaus, also nutzt diesen speziellen wenn auch kommerziellen Tag auch euren Lieben eure zu offenbaren. Spread Love! ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b4202fc-efe4-458d-bec9-612cf7d42fa1.jpg)
