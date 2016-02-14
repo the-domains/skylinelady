@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: V-Day
-datePublished: '2016-02-14T18:32:01.245Z'
-dateModified: '2016-02-14T18:31:58.938Z'
+datePublished: '2016-02-14T18:36:40.365Z'
+dateModified: '2016-02-14T18:36:38.630Z'
 title: Happy Valentine Day
 author: []
 sourcePath: _posts/2016-02-14-happy-valentine-day.md
@@ -36,4 +36,4 @@ there is a way to align it to your own needs. I used the day to
 send a message my sweethearts to tell them in a really short message that I love them. Not only to my dearest friends, also to
 my family celebrating the V-Day, because we then spread out LOVE into
 the world, so that special commercial thoughtag uses your loved ones your
-reveal. Spread Love!  ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b4202fc-efe4-458d-bec9-612cf7d42fa1.jpg)
+reveal. That's why we should spread love!  ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b4202fc-efe4-458d-bec9-612cf7d42fa1.jpg)
