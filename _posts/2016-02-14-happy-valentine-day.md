@@ -7,9 +7,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: V-Day
-datePublished: '2016-02-16T19:32:13.169Z'
-dateModified: '2016-02-16T19:32:11.005Z'
-title: "Happy Valentine's Day"
+datePublished: '2016-02-16T19:35:09.257Z'
+dateModified: '2016-02-16T19:35:02.588Z'
+title: Happy V-Day
 author: []
 sourcePath: _posts/2016-02-14-happy-valentine-day.md
 published: true
@@ -22,8 +22,9 @@ publisher:
 _type: Blurb
 
 ---
-# Happy Valentine's Day
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/850c00e5-ca75-48c4-9616-0041d160f41f.jpg)
+
+# Happy V-Day
 
 Whether you're in a relationship or
 single, the V-Day has the advantage to say "I love you" to those people who are really important to us. And you don't even have to be in a
