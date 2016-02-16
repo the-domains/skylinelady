@@ -7,9 +7,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: V-Day
-datePublished: '2016-02-16T19:53:34.798Z'
-dateModified: '2016-02-16T19:53:32.847Z'
-title: Happy V-Day
+datePublished: '2016-02-16T19:58:57.574Z'
+dateModified: '2016-02-16T19:58:56.666Z'
+title: "\_♥ Happy V-Day ♥"
 author: []
 sourcePath: _posts/2016-02-14-happy-valentine-day.md
 published: true
@@ -22,7 +22,7 @@ publisher:
 _type: Blurb
 
 ---
-# Happy V-Day
+# ♥ Happy V-Day ♥
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1242e56-15ec-4c30-a7f0-917f8d7e3c75.jpg)
 
 Whether you're in a relationship or
