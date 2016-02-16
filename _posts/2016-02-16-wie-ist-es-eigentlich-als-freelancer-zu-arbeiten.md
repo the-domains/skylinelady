@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-16T19:33:17.848Z'
-dateModified: '2016-02-16T19:33:15.621Z'
+datePublished: '2016-02-16T19:40:04.553Z'
+dateModified: '2016-02-16T19:40:02.412Z'
 title: Wie ist es eigentlich als Freelancer zu arbeiten?
 author: []
 sourcePath: _posts/2016-02-16-wie-ist-es-eigentlich-als-freelancer-zu-arbeiten.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: wie-ist-es-eigentlich-als-freelancer-zu-arbeiten/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Wie ist es eigentlich als Freelancer zu arbeiten?
