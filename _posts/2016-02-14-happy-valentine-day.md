@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: V-Day
-datePublished: '2016-02-16T20:07:47.531Z'
-dateModified: '2016-02-16T20:07:33.571Z'
+datePublished: '2016-02-16T20:11:08.216Z'
+dateModified: '2016-02-16T20:11:06.530Z'
 title: "\_♥ Happy V-Day ♥"
 author: []
 sourcePath: _posts/2016-02-14-happy-valentine-day.md
@@ -23,12 +23,13 @@ _type: Blurb
 
 ---
 # ♥ Happy V-Day ♥
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5869c464-96a0-49bd-b16e-6dac7330616a.gif)
 
 Whether you're in a relationship or
 single, the V-Day has the advantage to say "I love you" to those people who are really important to us. And you don't even have to be in a
 relationship. Basically, you can do it at any day of the year, so
 why not on V-Day. All couples are looking forward to this day, especially the
-florists, finally again give the partners a small but fine attention. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5869c464-96a0-49bd-b16e-6dac7330616a.gif)
+florists, finally again give the partners a small but fine attention. 
 
 And what
 about the singles? They wished it were not that day, until the day they found the right partner. But hey love singles, doesn't this now globally extended day of love calls for a girls day or a
