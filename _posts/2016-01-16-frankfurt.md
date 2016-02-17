@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: TravelEurope
-datePublished: '2016-01-19T14:23:12.127Z'
-dateModified: '2016-01-19T14:23:09.328Z'
+datePublished: '2016-02-17T19:31:11.130Z'
+dateModified: '2016-02-17T19:31:07.182Z'
 title: Travel Europe
 author: []
 sourcePath: _posts/2016-01-16-frankfurt.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: frankfurt/index.html
-_type: WebPage
+_type: Article
 
 ---
 ![What a fabulous view](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1882e73e99849b5af06a23485e9493b715cc3dde.jpg)
@@ -28,7 +28,9 @@ _type: WebPage
 
 ## Frankfurt
 
-Find my tips on [Foursquare][0]
+As a resident of Frankfurt I know accordingly many places, but also discover constantly new places. The current construction boom also changes the infrastructure. But it is also not unusual that new stores open and others close. 
+
+I have created you in [Foursquare][0] a list of my favorite places and update these regularly.
 
 This site is under construction at the moment - more coming soon.
 ![Call this a great architecture of an underground station](https://s3-us-west-2.amazonaws.com/the-grid-img/p/02a5b75491d839ce1cfee3109422a604112bfd6c.jpg)
