@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: AMS
-datePublished: '2016-02-17T19:42:23.053Z'
-dateModified: '2016-02-17T19:42:12.523Z'
+datePublished: '2016-02-17T19:43:58.205Z'
+dateModified: '2016-02-17T19:42:41.593Z'
 title: Next stop Amsterdam
 author: []
+sourcePath: _posts/2016-02-17-next-stop-amsterdam.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-17-next-stop-amsterdam.md
-published: true
 url: next-stop-amsterdam/index.html
 _type: Article
 
