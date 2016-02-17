@@ -17,8 +17,8 @@ keywords:
   - yazz
   - odg
 description: ''
-datePublished: '2016-02-17T20:11:57.317Z'
-dateModified: '2016-02-17T20:11:36.271Z'
+datePublished: '2016-02-17T20:12:26.780Z'
+dateModified: '2016-02-17T20:12:21.242Z'
 author: []
 related: []
 app_links:
@@ -30,7 +30,7 @@ app_links:
     type: ios
     app_name: Spotify
     app_store_id: '324684580'
-title: '"Spotify'
+title: Spotify
 sourcePath: _posts/2016-01-23-2015-tunes-a-playlist-by-skylinelady-on-spotify.md
 published: true
 authors: []
@@ -47,7 +47,9 @@ _type: MediaObject
 
 <iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Askylinelady%3Aplaylist%3A37droNi222C30CRU2cHzlA" width="300" height="380" frameborder="0" style=""></iframe>
 
-"Spotify][0]
+][0]
+
+# Spotify
 
 Listen to my favourite Tunes on Spotify and start following my [Playlists][1]
 
