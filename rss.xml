@@ -4,7 +4,7 @@
         <description><![CDATA[Travel & Lifestyle]]></description>
         <link>http://skylinelady.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 19:40:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 19:34:10 GMT</lastBuildDate>
         <atom:link href="http://skylinelady.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Me]]></title>
@@ -12,6 +12,13 @@
             <link>http://skylinelady.com/about-me/index.html</link>
             <guid isPermaLink="false">ff5bc2ce-12da-49d0-a21e-fe15f1cd1bd4</guid>
             <pubDate>Thu, 21 Jan 2016 12:23:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Travel Europe]]></title>
+            <description><![CDATA[<article><h1>Travel Europe</h1><p>As a resident of Frankfurt I know accordingly many places, but also discover constantly new places. The current construction boom also changes the infrastructure. But it is also not unusual that new stores open and others close. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7d1ae184ae7c56edf163bb1fe0fcbfc7688ef99.jpg"></article>]]></description>
+            <link>http://skylinelady.com/frankfurt/index.html</link>
+            <guid isPermaLink="false">8e38d9b5-a213-436c-8814-8e61b9472b92</guid>
+            <pubDate>Wed, 17 Feb 2016 19:31:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Printables]]></title>
