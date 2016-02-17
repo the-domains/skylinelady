@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-16T20:25:45.549Z'
-dateModified: '2016-02-16T20:25:43.667Z'
+datePublished: '2016-02-17T20:06:58.027Z'
+dateModified: '2016-02-17T20:02:48.497Z'
 title: "\_♥ Happy Valentine's Day ♥"
 author: []
 sourcePath: _posts/2016-02-14-happy-valentine-day.md
@@ -22,8 +22,9 @@ publisher:
 _type: Blurb
 
 ---
-# ♥ Happy Valentine's Day ♥
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5869c464-96a0-49bd-b16e-6dac7330616a.gif)
+
+# ♥ Happy Valentine's Day ♥
 
 Whether you're in a relationship or
 single, the V-Day has the advantage to say "I love you" to those people who are really important to us. And you don't even have to be in a
