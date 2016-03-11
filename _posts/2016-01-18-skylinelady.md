@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.twenty20.com/skylinelady/photos'
 inLanguage: null
 starred: false
 keywords: []
-description: "Check out my photographer's gallery on Twenty20.com"
-datePublished: '2016-01-21T15:44:35.599Z'
-dateModified: '2016-01-21T15:44:33.342Z'
+description: "I offer you a few of my favorite pictures for commercial and editorial use. Check out my photographer's gallery on Twenty20"
+datePublished: '2016-03-11T23:35:53.128Z'
+dateModified: '2016-03-11T23:35:48.668Z'
 author: []
 related: []
 app_links: []
@@ -21,6 +20,7 @@ publisher:
   domain: www.twenty20.com
   url: 'https://www.twenty20.com'
   favicon: 'https://www.twenty20.com/favicon.ico'
+url: pictures-on-sale/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
@@ -31,6 +31,8 @@ _type: MediaObject
 I offer you a few of my favorite pictures for commercial and editorial use. Check out my photographer's gallery on [Twenty20][0]
 
 Or get my Pictures on [EyeEm][1]
+
+
 
 [0]: https://www.twenty20.com/skylinelady/photos
 [1]: https://www.eyeem.com/u/skylinelady
