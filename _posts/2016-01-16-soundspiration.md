@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=GooxSsUWiNM'
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - linz
   - rhineland
 description: Social/YouTube
-datePublished: '2016-01-19T14:17:05.916Z'
-dateModified: '2016-01-19T14:17:02.662Z'
+datePublished: '2016-03-11T23:45:41.674Z'
+dateModified: '2016-03-11T23:45:04.121Z'
 author:
   - name: Caroline Kapfinger
     url: 'https://www.youtube.com/user/skylineladyz'
@@ -44,6 +43,7 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+url: soundspiration/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
