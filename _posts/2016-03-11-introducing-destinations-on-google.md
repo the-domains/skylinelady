@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=EnlsEyN7qmw'
 inLanguage: null
 starred: false
 keywords: []
-description: "Meet Destinations on Google. It's designed to help you discover and plan your perfect vacation on the go by doing the heavy lifting for you. Simply search with Google on your mobile for a state, country, or continent you'd like to travel to and add the word \"vacation\" or \"destination\" to get the stuff you need at your fingertips."
-datePublished: '2016-03-11T23:28:55.227Z'
-dateModified: '2016-03-11T23:28:25.488Z'
+description: Travel/GoogleDestinations
+datePublished: '2016-03-11T23:30:45.907Z'
+dateModified: '2016-03-11T23:30:16.114Z'
 author:
   - name: Google
     url: 'https://www.youtube.com/user/Google'
@@ -24,6 +23,7 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
+url: google-knows-just-what-we-need/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
