@@ -4,14 +4,21 @@
         <description><![CDATA[Travel & Lifestyle]]></description>
         <link>http://skylinelady.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 23:57:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2016 23:59:30 GMT</lastBuildDate>
         <atom:link href="http://skylinelady.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Me]]></title>
-            <description><![CDATA[<article><h1>About Me</h1><h2>Meanwhile you can follow me #skylinelady</h2><p>I post and share English and German contributions - almost bilingual.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8d16a3a59d15c78599edad3c8ed874ac94f2ffe.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>About Me</h1><h2>Meanwhile you can follow me #skylinelady</h2><p>I post and share English and German contributions - almost bilingual.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d7499c0a45e89fa62db16d4fb8809871b7176f40.jpg"></article>]]></description>
             <link>http://skylinelady.com/about-me/index.html</link>
             <guid isPermaLink="false">ff5bc2ce-12da-49d0-a21e-fe15f1cd1bd4</guid>
             <pubDate>Fri, 11 Mar 2016 23:57:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ ♥ Happy Valentine's Day ♥]]></title>
+            <description><![CDATA[<article><h1> ♥ Happy Valentine's Day ♥</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ba3b14a914e6469e3842cb49ecbe4c3acecd155.gif"></article>]]></description>
+            <link>http://skylinelady.com/love-happy-valentines-day-love/index.html</link>
+            <guid isPermaLink="false">021ffc6c-18c3-4e63-bcbf-56352dd5386d</guid>
+            <pubDate>Fri, 11 Mar 2016 23:58:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Soundspiration]]></title>
@@ -71,13 +78,6 @@ Postcards, Stickers and more – and uses premium quality paper as standard (no 
             <link>http://www.tsu.co/skylinelady</link>
             <guid isPermaLink="false">f0337f19-16c3-4dc4-8351-6d4ebc2358dd</guid>
             <pubDate>Thu, 21 Jan 2016 17:35:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Than it began in 2015]]></title>
-            <description><![CDATA[<article><h1>Than it began in 2015</h1><p>In January 2015 I started documenting my journeys. And a year later, in January 2016 I have launched my blog. Everything opens up incredible. And that is pretty awesome - so you can imagine how grateful I am.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96c4b0cd422d94cb111c611a232fc1cf03504a84.jpg"></article>]]></description>
-            <link>http://skylinelady.com/than-it-began-in-2015/index.html</link>
-            <guid isPermaLink="false">4104ac9f-56b8-4632-b750-37ce45f95cfa</guid>
-            <pubDate>Thu, 21 Jan 2016 11:31:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
